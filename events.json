@@ -1,0 +1,1216 @@
+[
+  {
+    "id": "maker-thursday",
+    "title": "Maker Thursday",
+    "category": "Tech & business",
+    "start": "2026-11-19",
+    "date": "Thu, Nov 19",
+    "time": "2–3:30 PM",
+    "venue": "TinkerSpace, Kalamassery",
+    "area": "Kalamassery",
+    "admission": "Details / registration on event page",
+    "notes": "Hands-on open-source software-defined radio demo on ESP32-S3.",
+    "sources": [
+      {
+        "label": "TinkerHub event",
+        "url": "https://tinkerhub.org/events/D17MU2E9IT/Maker%20Thursday"
+      }
+    ]
+  },
+  {
+    "id": "rajagiri-quiz",
+    "title": "Rajagiri National Business Quiz",
+    "category": "Tech & business",
+    "start": "2026-11-21",
+    "date": "Sat, Nov 21",
+    "time": "12:05–5 PM",
+    "venue": "Rajagiri Business School, Kochi",
+    "area": "Kakkanad / Rajagiri",
+    "admission": "Free entry",
+    "notes": "Offline prelims; see the listing for participation details.",
+    "sources": [
+      {
+        "label": "Unstop listing",
+        "url": "https://unstop.com/quiz/rajagiri-national-business-quiz-17th-edition-offline-prelims-rajagiri-business-school-1806001"
+      }
+    ]
+  },
+  {
+    "id": "meet-professionals",
+    "title": "Meet the Professionals panel",
+    "category": "Tech & business",
+    "start": "2026-11-22",
+    "date": "Sun, Nov 22",
+    "time": "9 AM–1 PM",
+    "venue": "Jain University Kochi, Nirmal Infopark",
+    "area": "Infopark / Kakkanad",
+    "admission": "Free",
+    "notes": "Panel session; confirm any registration requirements with the organizer.",
+    "sources": [
+      {
+        "label": "Luma event",
+        "url": "https://luma.com/efomj9fu"
+      }
+    ]
+  },
+  {
+    "id": "awsugkochi-ai",
+    "title": "AWSUGKOCHI AI / software meetup",
+    "category": "Tech & business",
+    "start": "2026-11-28",
+    "date": "Sat, Nov 28",
+    "time": "Listed around 9–9:30 AM to 1–1:30 PM",
+    "venue": "Infopark Phase 2 area",
+    "area": "Infopark / Kakkanad",
+    "admission": "See organizer listing",
+    "notes": "Conflicting start and end times across listings; check the event page before going.",
+    "sources": [
+      {
+        "label": "Meetup listing",
+        "url": "https://www.meetup.com/awsugkochi/events/317383029/"
+      }
+    ]
+  },
+  {
+    "id": "grafana-friends",
+    "title": "Grafana and Friends Kerala",
+    "category": "Tech & business",
+    "start": "2026-11-28",
+    "date": "Sat, Nov 28",
+    "time": "9:30 AM–1:30 PM",
+    "venue": "Venue unsettled; group page points to Caspian TechPark",
+    "area": "Infopark / Kakkanad (venue to confirm)",
+    "admission": "See organizer listing",
+    "notes": "Venue is not settled; verify the organizer page before travelling.",
+    "sources": [
+      {
+        "label": "Meetup listing",
+        "url": "https://www.meetup.com/grafana-and-friends-kerala/events/317163006/"
+      }
+    ]
+  },
+  {
+    "id": "n8n-kochi",
+    "title": "n8n Kochi",
+    "category": "Tech & business",
+    "start": "2026-11-28",
+    "date": "Sat, Nov 28",
+    "time": "3–6 PM",
+    "venue": "Infopark, Kochi",
+    "area": "Infopark / Kakkanad",
+    "admission": "Free",
+    "notes": "Community meetup.",
+    "sources": [
+      {
+        "label": "Luma event",
+        "url": "https://luma.com/n8n-kochi"
+      }
+    ]
+  },
+  {
+    "id": "useless-bots",
+    "title": "Useless Bots",
+    "category": "Tech & business",
+    "start": "2026-11-28",
+    "date": "Sat–Sun, Nov 28–29",
+    "time": "Overnight; displayed hours conflict",
+    "venue": "TinkerSpace, Kalamassery",
+    "area": "Kalamassery",
+    "admission": "See event page",
+    "notes": "Beginner-friendly overnight buildathon; the displayed hours conflict across the listing.",
+    "sources": [
+      {
+        "label": "Luma event",
+        "url": "https://luma.com/ugpnkdir"
+      }
+    ]
+  },
+  {
+    "id": "codex-game-jam",
+    "title": "Codex Community Game Jam",
+    "category": "Tech & business",
+    "start": "2026-11-20",
+    "date": "Fri–Sat, Nov 20–21",
+    "time": "Hours conflict across pages; overnight jam",
+    "venue": "TinkerSpace, Kalamassery",
+    "area": "Kalamassery",
+    "admission": "Listed as free",
+    "notes": "Overnight game-building jam; confirm exact timings on the event page.",
+    "sources": [
+      {
+        "label": "Luma event",
+        "url": "https://luma.com/qzms8nhq"
+      }
+    ]
+  },
+  {
+    "id": "aignite-2026",
+    "title": "AIGNITE 2026 — offline finale",
+    "category": "Tech & business",
+    "start": "2026-12-14",
+    "date": "Mon, Dec 14",
+    "time": "10 AM",
+    "venue": "Kochi; exact venue not announced",
+    "area": "Kochi (venue TBA)",
+    "admission": "Free; teams of 2–4",
+    "notes": "Students only, including 2026 pass-outs. Registration deadline conflict: event details say Nov 13 at 11:59 PM, while live registration says Nov 14 at 11:59 PM IST; safest deadline is Nov 13.",
+    "sources": [
+      {
+        "label": "AIGNITE registration",
+        "url": "https://biakochicampus.infocreon.com/events/bia-aignite-26/register"
+      }
+    ]
+  },
+  {
+    "id": "google-cloud-community-day",
+    "title": "Google Cloud Community Day Kochi",
+    "category": "Tech & business",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "9 AM–6 PM",
+    "venue": "Holiday Inn Kochi",
+    "area": "Kochi",
+    "admission": "Sold out",
+    "status": "Sold out",
+    "notes": "Listing says tickets are sold out.",
+    "sources": [
+      {
+        "label": "Official event site",
+        "url": "https://ccd.gdgcloudkochi.com/"
+      }
+    ]
+  },
+  {
+    "id": "cio-reconnect",
+    "title": "CIO ReConnect 2026",
+    "category": "Tech & business",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "Not shown",
+    "venue": "Courtyard by Marriott, Kochi",
+    "area": "Kochi",
+    "admission": "Price not shown",
+    "notes": "Organizer post was dated Nov 9; event time and price were not shown in the supplied listing.",
+    "sources": [
+      {
+        "label": "Organizer post",
+        "url": "https://www.facebook.com/CIOAssociation/posts/5daystogoon-14th-november-cio-reconnect-2026-brings-together-the-people-shaping-/1449717103941873/"
+      }
+    ]
+  },
+  {
+    "id": "gartner-symposium",
+    "title": "Gartner IT Symposium/Xpo",
+    "category": "Tech & business",
+    "start": "2026-11-16",
+    "date": "Mon–Wed, Nov 16–18",
+    "time": "See event site",
+    "venue": "Grand Hyatt Kochi Bolgatty",
+    "area": "Bolgatty",
+    "admission": "Paid registration; public price not displayed",
+    "notes": "Registration is paid; the public price is not displayed.",
+    "sources": [
+      {
+        "label": "Gartner conference",
+        "url": "https://www.gartner.com/en/conferences/apac/symposium-india"
+      }
+    ]
+  },
+  {
+    "id": "dmcon-keralam",
+    "title": "DMCON Keralam",
+    "category": "Tech & business",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "9 AM–6 PM",
+    "venue": "Gokulam Park, Kochi",
+    "area": "Kochi",
+    "admission": "From ₹699",
+    "notes": "Digital marketing conference.",
+    "sources": [
+      {
+        "label": "KonfHub tickets",
+        "url": "https://konfhub.com/dmcon-keralam-2026"
+      }
+    ]
+  },
+  {
+    "id": "global-digital-summit",
+    "title": "Kerala Global Digital Transformation & Investment Summit",
+    "category": "Tech & business",
+    "start": "2026-11-24",
+    "date": "Tue–Wed, Nov 24–25",
+    "time": "See event site",
+    "venue": "Adlux",
+    "area": "Angamaly / Adlux",
+    "admission": "Delegate ₹3,999 (listed ₹1,000 off); startup team of 3 ₹5,999 (₹1,498 off); free visitor pass",
+    "notes": "Prices and discounts are as listed on the registration page.",
+    "sources": [
+      {
+        "label": "Summit registration",
+        "url": "https://events.bluecloude.com/register"
+      }
+    ]
+  },
+  {
+    "id": "kochi-dialogue",
+    "title": "Kochi Dialogue",
+    "category": "Tech & business",
+    "start": "2026-11-18",
+    "date": "Wed–Fri, Nov 18–20",
+    "time": "See event site",
+    "venue": "Taj Vivanta, Marine Drive",
+    "area": "Marine Drive",
+    "admission": "Free",
+    "notes": "India–GCC dialogue on business, energy, connectivity, AI and innovation.",
+    "sources": [
+      {
+        "label": "Official event site",
+        "url": "https://www.kochidialogue.in/"
+      }
+    ]
+  },
+  {
+    "id": "prowave-expo",
+    "title": "ProWave Expo",
+    "category": "Tech & business",
+    "start": "2026-11-17",
+    "date": "Tue–Thu, Nov 17–19",
+    "time": "See event site",
+    "venue": "Adlux",
+    "area": "Angamaly / Adlux",
+    "admission": "See event site",
+    "notes": "Electronics, power and renewables expo.",
+    "sources": [
+      {
+        "label": "TradeIndia listing",
+        "url": "https://www.tradeindia.com/tradeshows/112932/prowave-expo.html"
+      }
+    ]
+  },
+  {
+    "id": "kreepa-green-power",
+    "title": "KREEPA Green Power Expo",
+    "category": "Tech & business",
+    "start": "2026-11-26",
+    "date": "Thu–Sat, Nov 26–28",
+    "time": "See event site",
+    "venue": "Adlux",
+    "area": "Angamaly / Adlux",
+    "admission": "Visitor entry free",
+    "notes": "Renewables, e-mobility, workshops and job fair.",
+    "sources": [
+      {
+        "label": "Official expo site",
+        "url": "https://kreepaexpo.com/"
+      }
+    ]
+  },
+  {
+    "id": "mega-cable-fest",
+    "title": "Mega Cable Fest",
+    "category": "Tech & business",
+    "start": "2026-11-26",
+    "date": "Thu–Sat, Nov 26–28",
+    "time": "See event listing",
+    "venue": "Rajiv Gandhi Indoor Stadium",
+    "area": "Kochi",
+    "admission": "See event listing",
+    "notes": "Industry expo.",
+    "sources": [
+      {
+        "label": "AllEvents listing",
+        "url": "https://allevents.in/kochi/mega-cable-fest/200030983166440"
+      }
+    ]
+  },
+  {
+    "id": "tinkering-pcbs",
+    "title": "Tinkering with PCBs",
+    "category": "Tech & business",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "4:30–10:30 PM",
+    "venue": "TinkerSpace, Kalamassery",
+    "area": "Kalamassery",
+    "admission": "Registration available; price not shown",
+    "notes": "See the event page for registration details.",
+    "sources": [
+      {
+        "label": "TinkerHub event",
+        "url": "https://tinkerhub.org/events/8R9QZ2N12W/Tinkering%20with%20PCBs"
+      }
+    ]
+  },
+  {
+    "id": "taxbuddy-cxo",
+    "title": "CXOs Leadership Conclave",
+    "category": "Tech & business",
+    "start": "2026-12-12",
+    "date": "Sat, Dec 12",
+    "time": "9:30 AM–1 PM",
+    "venue": "Novotel Kochi Infopark",
+    "area": "Infopark / Kakkanad",
+    "admission": "See event page",
+    "notes": "TaxBuddy free session.",
+    "sources": [
+      {
+        "label": "Luma event",
+        "url": "https://luma.com/dl8nkzqv"
+      }
+    ]
+  },
+  {
+    "id": "taxbuddy-playbook",
+    "title": "The Next Strategic Alliance Playbook",
+    "category": "Tech & business",
+    "start": "2026-12-12",
+    "date": "Sat, Dec 12",
+    "time": "3–5 PM",
+    "venue": "Novotel Kochi Infopark",
+    "area": "Infopark / Kakkanad",
+    "admission": "See event page",
+    "notes": "TaxBuddy free session.",
+    "sources": [
+      {
+        "label": "Luma event",
+        "url": "https://luma.com/l1jykzlv"
+      }
+    ]
+  },
+  {
+    "id": "lucid-techno",
+    "title": "LUCID Techno Night",
+    "category": "Music & entertainment",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "6 PM",
+    "venue": "Hotel Park Residency, Echamuku, Kakkanad",
+    "area": "Kakkanad",
+    "admission": "₹500; WhatsAround says free entry until 7 PM",
+    "notes": "Entry-price conflict across listings; check the event pages before booking.",
+    "sources": [
+      {
+        "label": "EventsAroundMe",
+        "url": "https://eventsaroundme.in/event/861dafa0-c325-4ddb-9436-007cd13ffd55"
+      },
+      {
+        "label": "WhatsAround",
+        "url": "https://whatsaround.app/home/events/lucid-techno-night-malbec-d-d-nexgen"
+      }
+    ]
+  },
+  {
+    "id": "limitless-haynah",
+    "title": "Limitless ft. Haynah",
+    "category": "Music & entertainment",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "7 PM onwards",
+    "venue": "Club Zoro, Hotel Coral Reef, Kakkanad",
+    "area": "Kakkanad",
+    "admission": "Ladies ₹500; stags / couples ₹2,000; full cover redeemable",
+    "notes": "23+ entry.",
+    "sources": [
+      {
+        "label": "SortMyScene tickets",
+        "url": "https://sortmyscene.com/event/limitless-ft-haynah-at-club-zoro-nov-14-2026"
+      }
+    ]
+  },
+  {
+    "id": "limitless-liquid-rose",
+    "title": "Limitless ft. Liquid Rose",
+    "category": "Music & entertainment",
+    "start": "2026-11-21",
+    "date": "Sat, Nov 21",
+    "time": "7 PM onwards",
+    "venue": "Club Zoro, Kakkanad",
+    "area": "Kakkanad",
+    "admission": "From ₹500",
+    "notes": "Also announced on Reddit; check ticket availability with the organizer.",
+    "sources": [
+      {
+        "label": "Kochi2Go event",
+        "url": "https://kochi2go.in/event/limitless-ft-liquid-rose-20261121-439638"
+      },
+      {
+        "label": "Reddit announcement",
+        "url": "https://www.reddit.com/r/Kochi/comments/1xojdes/limitless_ft_liquid_rose_at_club_zoro_to_be/"
+      }
+    ]
+  },
+  {
+    "id": "vir-das",
+    "title": "Vir Das — Sounds of India",
+    "category": "Music & entertainment",
+    "start": "2026-12-05",
+    "date": "Sat, Dec 5",
+    "time": "7:30 PM",
+    "venue": "Rajagiri Auditorium, Kakkanad",
+    "area": "Kakkanad",
+    "admission": "From ₹799",
+    "notes": "Official tour page confirms the Kochi show.",
+    "sources": [
+      {
+        "label": "IndiaEve tickets",
+        "url": "https://www.indiaeve.com/event/vir-das-%E2%80%93-sounds-of-india-%E2%80%93-kochi"
+      },
+      {
+        "label": "Official tour page",
+        "url": "https://www.virdas.in/tour"
+      }
+    ]
+  },
+  {
+    "id": "funky-friday",
+    "title": "Funky Friday featuring MAAKKAAN",
+    "category": "Music & entertainment",
+    "start": "2026-11-13",
+    "date": "Fri, Nov 13",
+    "time": "See organizer post",
+    "venue": "OG’s Chicago, Kundannoor",
+    "area": "Kundannoor",
+    "admission": "Women and couples advertised free entry under stated conditions",
+    "notes": "Entry offer has conditions; check the organizer post.",
+    "sources": [
+      {
+        "label": "Organizer post",
+        "url": "https://www.instagram.com/p/DffWEb2gHs9/"
+      }
+    ]
+  },
+  {
+    "id": "pitch-pulse",
+    "title": "PITCH & PULSE underground music night",
+    "category": "Music & entertainment",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "6–11 PM",
+    "venue": "Bacchus Lounge",
+    "area": "Kochi",
+    "admission": "See organizer post",
+    "notes": "Underground music night.",
+    "sources": [
+      {
+        "label": "Organizer post",
+        "url": "https://www.instagram.com/p/DfgjwyuoJaK/"
+      }
+    ]
+  },
+  {
+    "id": "rahul-subramanian",
+    "title": "Rahul Subramanian — Don’t Give Your Best",
+    "category": "Music & entertainment",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "7 PM",
+    "venue": "JTPAC",
+    "area": "Tripunithura",
+    "admission": "See ticket page",
+    "notes": "Live comedy show.",
+    "sources": [
+      {
+        "label": "BookMyShow tickets",
+        "url": "https://in.bookmyshow.com/events/don-t-give-your-best-by-rahul-subramanian/ET00516148"
+      }
+    ]
+  },
+  {
+    "id": "tharavad",
+    "title": "Tharavad",
+    "category": "Music & entertainment",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "4–11:30 PM",
+    "venue": "Meen by Chef Pillai, Forum Kochi",
+    "area": "Maradu / Forum Kochi",
+    "admission": "From ₹400; gate cover after 8 PM",
+    "notes": "Gate-cover applies after 8 PM.",
+    "sources": [
+      {
+        "label": "SortMyScene tickets",
+        "url": "https://sortmyscene.com/event/tharavad-nov-14-2026"
+      }
+    ]
+  },
+  {
+    "id": "meera-madhavam",
+    "title": "Meera Madhavam devotional concert",
+    "category": "Music & entertainment",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "6–9 PM",
+    "venue": "Azeezia Convention Centre",
+    "area": "Kochi area",
+    "admission": "Listing from ₹900; Jamuna ticket ₹1,000 + GST with BOGO offer (listed normal ₹2,000)",
+    "notes": "Ticket prices and offer details are as listed; verify checkout terms.",
+    "sources": [
+      {
+        "label": "IndiaEve tickets",
+        "url": "https://www.indiaeve.com/event/meera-madhavam-devotional-music-concert-kochi"
+      }
+    ]
+  },
+  {
+    "id": "anuv-jain",
+    "title": "Anuv Jain Live",
+    "category": "Music & entertainment",
+    "start": "2026-11-15",
+    "date": "Sun, Nov 15",
+    "time": "5 PM",
+    "venue": "Le Meridien, Maradu",
+    "area": "Maradu",
+    "admission": "From ₹1,999; SC3NE showed sold out",
+    "status": "Sold-out report",
+    "notes": "HappeningsAroundMe shows a starting price; SC3NE reported sold out. Verify current availability.",
+    "sources": [
+      {
+        "label": "HappeningsAroundMe",
+        "url": "https://happeningsaroundme.in/event/kochi-anuv-jain-live-kochi"
+      },
+      {
+        "label": "SC3NE",
+        "url": "https://www.sc3ne.in/e/casa-bacardi-on-tour-kochi"
+      }
+    ]
+  },
+  {
+    "id": "chapter-1-origin",
+    "title": "Chapter 1: ORIGIN",
+    "category": "Music & entertainment",
+    "start": "2026-11-28",
+    "date": "Sat, Nov 28",
+    "time": "4 PM start; end-time conflict: 10 PM in SortMyScene header, 11 PM in FAQ and organizer info",
+    "venue": "Crowne Plaza Kochi, Kundanoor / Maradu",
+    "area": "Kundanoor / Maradu",
+    "admission": "From ₹1,899; cover redeemable on food / beverages",
+    "notes": "Lineup: YOUNA, NIRVAAN, SICKWENZ, sLick!, ELEMENTS DEEP. End time conflicts across the listing; verify before planning transport.",
+    "sources": [
+      {
+        "label": "SortMyScene tickets",
+        "url": "https://sortmyscene.com/event/chapter-1-origin-nov-28-2026"
+      },
+      {
+        "label": "BookMyShow tickets",
+        "url": "https://in.bookmyshow.com/events/chapter-1-origin/etvu4zj090"
+      }
+    ]
+  },
+  {
+    "id": "moto-summit",
+    "title": "Moto Summit Kochi",
+    "category": "Music & entertainment",
+    "start": "2026-11-21",
+    "date": "Sat–Sun, Nov 21–22",
+    "time": "Gates open at noon",
+    "venue": "Chakola Mill grounds, Kalamassery",
+    "area": "Kalamassery",
+    "admission": "Prices conflict across platforms: ₹599+, ₹399+ and ₹299+; one listing sold out",
+    "status": "Price / availability conflict",
+    "notes": "Day-by-day lineup lists Esany Dey and Shanka Tribe on Nov 21, and DJ Romeo Blanco on Nov 22. Check the chosen ticket platform for current price and availability.",
+    "sources": [
+      {
+        "label": "BookMyShow",
+        "url": "https://in.bookmyshow.com/sports/moto-summit-kochi-2026/ET00518013"
+      },
+      {
+        "label": "HappeningsAroundMe",
+        "url": "https://happeningsaroundme.in/event/kochi-moto-summit-kochi-2026"
+      },
+      {
+        "label": "IndiaEve",
+        "url": "https://www.indiaeve.com/event/moto-summit-kochi-2026"
+      }
+    ]
+  },
+  {
+    "id": "shuffleverse",
+    "title": "Shuffleverse boutique music festival",
+    "category": "Music & entertainment",
+    "start": "2026-11-22",
+    "date": "Sun, Nov 22",
+    "time": "5–10 PM",
+    "venue": "Shilton International",
+    "area": "Kochi",
+    "admission": "From ₹399; early bird ₹399 single lady / ₹699 couple / ₹799 stag; cover redeemable on food and drinks",
+    "notes": "Early-bird prices and cover terms are as listed.",
+    "sources": [
+      {
+        "label": "SortMyScene tickets",
+        "url": "https://sortmyscene.com/event/shuffleverse-boutique-music-festival-nov-22-2026"
+      }
+    ]
+  },
+  {
+    "id": "open-air-festival",
+    "title": "Open AIR Festival Season 3.0",
+    "category": "Music & entertainment",
+    "start": "2026-12-12",
+    "date": "Sat–Sun, Dec 12–13",
+    "time": "6–11 PM",
+    "venue": "Crowne Plaza Kochi",
+    "area": "Kundanoor / Maradu",
+    "admission": "From ₹1,999",
+    "notes": "Presented by PAX Events.",
+    "sources": [
+      {
+        "label": "SortMyScene tickets",
+        "url": "https://sortmyscene.com/event/open-air-festival-season-3-0-dec-12-2026"
+      }
+    ]
+  },
+  {
+    "id": "kalaaverse",
+    "title": "KalaaVerse",
+    "category": "Music & entertainment",
+    "start": "2026-12-12",
+    "date": "Sat, Dec 12",
+    "time": "2–11:30 PM; end-time listings conflict",
+    "venue": "Bacchus Lounge",
+    "area": "Kochi",
+    "admission": "From ₹949",
+    "notes": "Creative activities and live music. The page date display extends to Jan 12 despite the one-day description, and end times conflict; confirm date and hours with the organizer.",
+    "sources": [
+      {
+        "label": "SortMyScene listing",
+        "url": "https://sortmyscene.com/event/kalaaverse-the-creative-collective-dec-12-2026"
+      }
+    ]
+  },
+  {
+    "id": "manorama-hortus",
+    "title": "Manorama Hortus — festival highlights",
+    "category": "Music & entertainment",
+    "start": "2026-12-03",
+    "date": "Thu–Sun, Dec 3–6",
+    "time": "Usha Uthup performs Dec 5, 7:30–9 PM; free Clay Play workshop Dec 6, 11 AM–1 PM",
+    "venue": "Subhash Park",
+    "area": "Ernakulam / Subhash Park",
+    "admission": "Usha Uthup tickets ₹350; Clay Play workshop is free, 30 seats",
+    "notes": "Usha Uthup is included here once (not listed as a separate event). The workshop has limited capacity.",
+    "sources": [
+      {
+        "label": "Manorama Hortus post",
+        "url": "https://www.instagram.com/p/Dfj5d3iB3Oj/"
+      },
+      {
+        "label": "Clay Play workshop post",
+        "url": "https://www.instagram.com/manoramahortus/p/DfjvQzeBrkn/"
+      }
+    ]
+  },
+  {
+    "id": "vandora-winter-swag",
+    "title": "VANDORA Winter Swag",
+    "category": "Music & entertainment",
+    "start": "2026-12-20",
+    "date": "Sun, Dec 20",
+    "time": "5 PM",
+    "venue": "HMT School Ground, Kalamassery",
+    "area": "Kalamassery",
+    "admission": "From ₹999",
+    "notes": "See ticket page for current availability.",
+    "sources": [
+      {
+        "label": "BookMyShow tickets",
+        "url": "https://in.bookmyshow.com/events/vandora-winter-swag-2026/ET00521308"
+      }
+    ]
+  },
+  {
+    "id": "anuragathin-velayil",
+    "title": "Anuragathin Velayil with Vineeth Sreenivasan",
+    "category": "Music & entertainment",
+    "start": "2026-12-27",
+    "date": "Sun, Dec 27",
+    "time": "See ticket page",
+    "venue": "Forum Mall Sky Deck",
+    "area": "Maradu / Forum Mall",
+    "admission": "₹499–₹3,499",
+    "notes": "Ticket prices are as listed.",
+    "sources": [
+      {
+        "label": "Quickerala tickets",
+        "url": "https://events.quickerala.com/event/anuragathin-velayil-by-vineeth-sreenivasan-5"
+      }
+    ]
+  },
+  {
+    "id": "shreya-ghoshal",
+    "title": "Shreya Ghoshal — The Unstoppable India Tour",
+    "category": "Music & entertainment",
+    "start": "2027-03-07",
+    "date": "Sun, Mar 7, 2027",
+    "time": "District lists a 6 PM show and 4 PM gates",
+    "venue": "Cochin Trade Centre per official artist / District pages; another music listing points to Kochi Marriott / Lulu area",
+    "area": "Kochi (venue conflict)",
+    "admission": "Tickets ₹1,000+; general sale live",
+    "status": "Venue conflict",
+    "notes": "Venue conflict across listings. Official artist and District pages show Cochin Trade Centre; check the ticket page before travelling.",
+    "sources": [
+      {
+        "label": "District tickets",
+        "url": "https://www.district.in/events/shreya-ghoshal-the-unstoppable-india-tour-kochi-buy-tickets"
+      },
+      {
+        "label": "Official tour page",
+        "url": "https://www.shreyaghoshal.com/tour/"
+      }
+    ]
+  },
+  {
+    "id": "nye-all-in-kochi",
+    "title": "All in Kochi — New Year Celebration",
+    "category": "Music & entertainment",
+    "start": "2026-12-31",
+    "date": "Thu, Dec 31",
+    "time": "5 PM",
+    "venue": "Kaloor",
+    "area": "Kaloor",
+    "admission": "From ₹499",
+    "notes": "New Year’s Eve event.",
+    "sources": [
+      {
+        "label": "BookMyShow tickets",
+        "url": "https://in.bookmyshow.com/events/all-in-kochi-2027-new-year-celebration/ET00525507"
+      }
+    ]
+  },
+  {
+    "id": "nye-grand-carnival",
+    "title": "The Grand Carnival Festival",
+    "category": "Music & entertainment",
+    "start": "2026-12-31",
+    "date": "Thu, Dec 31",
+    "time": "6:30 PM",
+    "venue": "Bolgatty",
+    "area": "Bolgatty",
+    "admission": "From ₹1,799",
+    "notes": "Headlined by Thaikkudam Bridge; New Year’s Eve event.",
+    "sources": [
+      {
+        "label": "BookMyShow tickets",
+        "url": "https://in.bookmyshow.com/events/the-grand-carnival-festival/ET00524857"
+      }
+    ]
+  },
+  {
+    "id": "litjam-edition-8",
+    "title": "Litjam Edition 8",
+    "category": "Music & entertainment",
+    "start": "2026-11-29",
+    "date": "Sun, Nov 29",
+    "time": "See ticket page",
+    "venue": "Watson’s",
+    "area": "Kochi",
+    "admission": "₹332–₹349+ plus ₹300 food / drink redeemable cover",
+    "notes": "Cover is listed as redeemable on food / drink.",
+    "sources": [
+      {
+        "label": "District tickets",
+        "url": "https://www.district.in/events/litjam-kochi-a-live-music-jam-show-edition-8-nov29-2026-buy-tickets"
+      }
+    ]
+  },
+  {
+    "id": "midnight-neon-dash",
+    "title": "Midnight Neon Dash 2.0",
+    "category": "Music & entertainment",
+    "start": "2026-12-19",
+    "date": "Sat, Dec 19",
+    "time": "8 PM",
+    "venue": "Not stated",
+    "area": "Kochi (venue TBA)",
+    "admission": "Price not stated; early-bird offer advertised through Nov 15",
+    "notes": "Venue and price were not stated in the supplied post.",
+    "sources": [
+      {
+        "label": "Organizer post",
+        "url": "https://www.instagram.com/reel/Dfj3QRyyLNA/"
+      }
+    ]
+  },
+  {
+    "id": "walk-wonder",
+    "title": "Walk & Wonder",
+    "category": "Community, arts & learning",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "From 5 PM",
+    "venue": "Subhash Bose Park",
+    "area": "Ernakulam / Subhash Bose Park",
+    "admission": "See event page",
+    "notes": "Social walk.",
+    "sources": [
+      {
+        "label": "WhatsAround event",
+        "url": "https://whatsaround.app/home/events/walk-wonder-kochi"
+      }
+    ]
+  },
+  {
+    "id": "saturday-kindness",
+    "title": "A Saturday of Kindness",
+    "category": "Community, arts & learning",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "10:30 AM",
+    "venue": "Fort Kochi",
+    "area": "Fort Kochi",
+    "admission": "See event page",
+    "notes": "Community gathering; check listing for participation details.",
+    "sources": [
+      {
+        "label": "AllEvents listing",
+        "url": "https://allevents.in/kochi/a-saturday-of-kindness/3900030839122140"
+      }
+    ]
+  },
+  {
+    "id": "panampilly-flea",
+    "title": "Panampilly Pocket flea market",
+    "category": "Community, arts & learning",
+    "start": "2026-11-14",
+    "date": "Sat–Sun, Nov 14–15",
+    "time": "10 AM–9 PM",
+    "venue": "Panampilly Nagar Central Park",
+    "area": "Panampilly Nagar",
+    "admission": "See organizer post",
+    "notes": "Flea market.",
+    "sources": [
+      {
+        "label": "Organizer post",
+        "url": "https://www.instagram.com/artplanet_events/reel/DfpExDvh5Bk/"
+      }
+    ]
+  },
+  {
+    "id": "big-aaaaart-walk",
+    "title": "The Big Aaaaart Walk",
+    "category": "Community, arts & learning",
+    "start": "2026-11-21",
+    "date": "Sat–Sun, Nov 21–22",
+    "time": "See event page",
+    "venue": "Fort Kochi",
+    "area": "Fort Kochi",
+    "admission": "₹50+",
+    "notes": "Art walk by The Art Curry.",
+    "sources": [
+      {
+        "label": "Skillboxes tickets",
+        "url": "https://www.skillboxes.com/events/the-big-aaaaart-walk-by-the-art-curry-kochi-sbyvezek"
+      }
+    ]
+  },
+  {
+    "id": "osint-workshop",
+    "title": "OSINT workshop",
+    "category": "Community, arts & learning",
+    "start": "2026-11-28",
+    "date": "Sat, Nov 28",
+    "time": "See organizer page",
+    "venue": "St. Teresa’s College",
+    "area": "Ernakulam",
+    "admission": "Registration via organizer Instagram bio",
+    "notes": "Use the organizer’s Instagram bio for registration details.",
+    "sources": [
+      {
+        "label": "Organizer post",
+        "url": "https://www.instagram.com/infosecra/p/Dfb-G1WiXmF/"
+      }
+    ]
+  },
+  {
+    "id": "tishra-chatushra",
+    "title": "TISHRA CHATUSHRA — Kathak / percussion",
+    "category": "Community, arts & learning",
+    "start": "2026-11-21",
+    "date": "Sat, Nov 21",
+    "time": "6–9 PM",
+    "venue": "Nisarga Art Hub, Angamaly",
+    "area": "Angamaly",
+    "admission": "Performance ₹1,000; workshop ₹1,100; combined pass ₹1,600 (stated to save ₹500)",
+    "notes": "Ticket options and stated saving are as listed.",
+    "sources": [
+      {
+        "label": "IndiaEve tickets",
+        "url": "https://www.indiaeve.com/event/tishra-chatushra-kathak-percussion-kochi"
+      }
+    ]
+  },
+  {
+    "id": "dasabdi-mahotsavam",
+    "title": "Dasabdi Mahothsavam arts festival",
+    "category": "Community, arts & learning",
+    "start": "2026-11-13",
+    "date": "Fri–Sun, Nov 13–15",
+    "time": "See event listing",
+    "venue": "TDM Hall",
+    "area": "Ernakulam",
+    "admission": "Ticket widget sold out",
+    "status": "Sold out",
+    "notes": "Ticket widget showed sold out.",
+    "sources": [
+      {
+        "label": "Kochi2Go listing",
+        "url": "https://kochi2go.in/event/kochi-dasabdi-mahothsavam-2026-20261113-e22175"
+      }
+    ]
+  },
+  {
+    "id": "flavours-mewar",
+    "title": "Flavours of Mewar",
+    "category": "Community, arts & learning",
+    "start": "2026-11-13",
+    "date": "From Fri, Nov 13",
+    "time": "See venue / event listing",
+    "venue": "Grand Hyatt Kochi Bolgatty",
+    "area": "Bolgatty",
+    "admission": "See venue listing",
+    "notes": "Rajasthani food festival; end date not stated in the supplied details.",
+    "sources": [
+      {
+        "label": "Kochi2Go listing",
+        "url": "https://kochi2go.in/event/flavours-of-mewar-20261113-33719c"
+      }
+    ]
+  },
+  {
+    "id": "pan-asian-food",
+    "title": "Pan Asian Food Festival",
+    "category": "Community, arts & learning",
+    "start": "2026-11-13",
+    "date": "Starts Fri, Nov 13; runs one month",
+    "time": "See venue listing",
+    "venue": "Cafe de Bangkok",
+    "area": "Kochi",
+    "admission": "See venue listing",
+    "notes": "One-month food festival; exact end date not supplied.",
+    "sources": [
+      {
+        "label": "EventsAroundMe listing",
+        "url": "https://eventsaroundme.in/event/1d672440-bb86-4966-a3e6-c6f2bab75ba1"
+      }
+    ]
+  },
+  {
+    "id": "kochi-christmas-carnival",
+    "title": "Kochi’s Grand Christmas Carnival",
+    "category": "Community, arts & learning",
+    "start": "2026-12-18",
+    "date": "Fri–Sun, Dec 18–20",
+    "time": "See event page",
+    "venue": "Kaloor Stadium",
+    "area": "Kaloor",
+    "admission": "Attendee price not stated",
+    "notes": "Price was not stated in the supplied event details.",
+    "sources": [
+      {
+        "label": "EventsAroundMe listing",
+        "url": "https://eventsaroundme.in/event/e2113ab6-65c6-4f11-b519-fac36e4e192e"
+      }
+    ]
+  },
+  {
+    "id": "kerala-gem-jewellery",
+    "title": "Kerala Gem & Jewellery Show",
+    "category": "Community, arts & learning",
+    "start": "2026-12-11",
+    "date": "Starts Fri, Dec 11",
+    "time": "See event page",
+    "venue": "Adlux",
+    "area": "Angamaly / Adlux",
+    "admission": "See event page",
+    "notes": "End date and attendee terms were not supplied.",
+    "sources": [
+      {
+        "label": "Kochi2Go listing",
+        "url": "https://kochi2go.in/event/kerala-gem-jewellery-show-kgjs-2026-20261211-614644"
+      }
+    ]
+  },
+  {
+    "id": "kidzonic",
+    "title": "KIDZONIC kids DJ party",
+    "category": "Community, arts & learning",
+    "start": "2026-11-14",
+    "date": "Sat, Nov 14",
+    "time": "3–9:30 PM",
+    "venue": "Oberon Mall",
+    "area": "Edappally",
+    "admission": "Promotions vary ₹299–₹699; another ₹399 offer",
+    "status": "Limited slots noted",
+    "notes": "Only a few DJ-party slots remained per the Nov 11 post; prices vary across promotions.",
+    "sources": [
+      {
+        "label": "Oberon Mall event page",
+        "url": "https://oberonmall.com/event/keralas-first-kids-dj-party/"
+      }
+    ]
+  },
+  {
+    "id": "kerala-startup-fest",
+    "title": "Kerala Startup Fest 2027",
+    "category": "Across Kerala & later highlights",
+    "start": "2027-01-06",
+    "date": "Wed–Thu, Jan 6–7, 2027",
+    "time": "See event site",
+    "venue": "Exact venue not stated",
+    "area": "Kerala (venue TBA)",
+    "admission": "Early-bird tickets listed ₹299 and ₹1,999",
+    "notes": "Exact venue not stated in the supplied details.",
+    "sources": [
+      {
+        "label": "Official ticket page",
+        "url": "https://keralastartupfest.com/tickets"
+      }
+    ]
+  },
+  {
+    "id": "kerala-literature-festival",
+    "title": "Kerala Literature Festival",
+    "category": "Across Kerala & later highlights",
+    "start": "2027-01-21",
+    "date": "Thu–Sun, Jan 21–24, 2027",
+    "time": "See festival site",
+    "venue": "Kozhikode Beach",
+    "area": "Kozhikode",
+    "admission": "See festival site",
+    "notes": "Major literature festival outside Kochi.",
+    "sources": [
+      {
+        "label": "Official festival site",
+        "url": "https://keralaliteraturefestival.com/"
+      }
+    ]
+  },
+  {
+    "id": "thrissur-marathon",
+    "title": "Thrissur Cultural Capital Marathon",
+    "category": "Across Kerala & later highlights",
+    "start": "2027-01-31",
+    "date": "Sun, Jan 31, 2027",
+    "time": "See registration page",
+    "venue": "Thrissur",
+    "area": "Thrissur",
+    "admission": "Registration from ₹600; early-bird shown",
+    "notes": "Outside Kochi.",
+    "sources": [
+      {
+        "label": "Official registration",
+        "url": "https://www.thrissurmarathon.com/registration/"
+      }
+    ]
+  },
+  {
+    "id": "kochi-comic-con",
+    "title": "Kochi Comic Con",
+    "category": "Across Kerala & later highlights",
+    "start": "2027-01-30",
+    "date": "Sat–Sun, Jan 30–31, 2027",
+    "time": "See ticket page",
+    "venue": "Adlux, Karukutty",
+    "area": "Karukutty / Adlux",
+    "admission": "From ₹2,999",
+    "notes": "See ticket page for current terms.",
+    "sources": [
+      {
+        "label": "District tickets",
+        "url": "https://www.district.in/events/kochi-comic-con-2027-buy-tickets"
+      }
+    ]
+  },
+  {
+    "id": "cokpit-2027",
+    "title": "COKPIT 2027",
+    "category": "Across Kerala & later highlights",
+    "start": "2027-01-28",
+    "date": "Thu–Fri, Jan 28–29, 2027",
+    "time": "See summit site",
+    "venue": "Grand Hyatt Kochi Bolgatty",
+    "area": "Bolgatty",
+    "admission": "Invite-only",
+    "notes": "Aviation / AI / GCC summit; invite-only.",
+    "sources": [
+      {
+        "label": "Official summit site",
+        "url": "https://www.thecokpit.com/"
+      }
+    ]
+  },
+  {
+    "id": "maker-summit-eoi",
+    "title": "The Maker Summit 2027 — community EOI",
+    "category": "Across Kerala & later highlights",
+    "start": "2026-11-18",
+    "date": "EOI deadline Wed, Nov 18; summit date / venue not set",
+    "time": "See EOI page",
+    "venue": "Date and venue not set",
+    "area": "Kerala (venue TBA)",
+    "admission": "EOI is for organizer-community participation, not attendee registration",
+    "notes": "The Nov 18 deadline is for organizer-community participation only; it is not attendee registration.",
+    "sources": [
+      {
+        "label": "Kerala Startup Mission EOI",
+        "url": "https://startupmission.kerala.gov.in/eoi/maker-summit2027"
+      }
+    ]
+  },
+  {
+    "id": "og-show-kozhikode",
+    "title": "THE OG SHOW with M.G. Sreekumar",
+    "category": "Across Kerala & later highlights",
+    "start": "2026-12-13",
+    "date": "Sun, Dec 13",
+    "time": "6:30 PM",
+    "venue": "Kozhikode",
+    "area": "Kozhikode",
+    "admission": "Booking open",
+    "status": "Booking open",
+    "notes": "Outside Kochi; booking was open in the supplied listing.",
+    "sources": [
+      {
+        "label": "BookMyShow tickets",
+        "url": "https://in.bookmyshow.com/events/the-og-show/ET00525942"
+      }
+    ]
+  },
+  {
+    "id": "rotary-dream-run",
+    "title": "Rotary Dream Run",
+    "category": "Across Kerala & later highlights",
+    "start": "2026-12-20",
+    "date": "Sun, Dec 20",
+    "time": "See registration page",
+    "venue": "Kozhikode",
+    "area": "Kozhikode",
+    "admission": "5K–32K; registration from ₹600",
+    "notes": "Outside Kochi.",
+    "sources": [
+      {
+        "label": "Registration",
+        "url": "https://reg.myraceindia.com/form/RDR26"
+      }
+    ]
+  },
+  {
+    "id": "huddle-global",
+    "title": "Huddle Global 2026",
+    "category": "Across Kerala & later highlights",
+    "start": "2026-11-12",
+    "date": "Thu–Sat, Nov 12–14",
+    "time": "In progress",
+    "venue": "The Leela Raviz Kovalam, Trivandrum",
+    "area": "Kovalam / Thiruvananthapuram",
+    "admission": "Registration closed",
+    "status": "In progress · registration closed",
+    "notes": "Already underway as of Nov 12; outside Kochi. The official site confirms Nov 12–14, The Leela Raviz Kovalam, and registrations closed.",
+    "sources": [
+      {
+        "label": "Official Huddle Global site",
+        "url": "https://huddleglobal.co.in/"
+      }
+    ]
+  }
+]
