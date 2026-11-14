@@ -111,16 +111,20 @@
     "id": "useless-bots",
     "title": "Useless bots : buildathon",
     "category": "Hackathon / maker",
-    "start": "2026-11-28T07:30:00+05:30",
+    "start": "2026-11-28T13:00:00+05:30",
     "date": "Sat–Sun, Nov 28–29, 2026",
-    "time": "7:30 AM–1:30 AM IST",
-    "venue": "TinkerSpace, Kochi",
+    "time": "Kochi.buzz: 1:00 PM–7:00 AM IST; official TinkerHub page: 7:30 AM–1:30 AM (timezone displayed by source without an explicit label)",
+    "venue": "TinkerSpace, Kalamassery, Kochi",
     "area": "Kalamassery / Kochi",
-    "admission": "Approval required; request to join on Luma; no price stated",
-    "notes": "Material schedule/status update versus baseline: official TinkerHub gives Nov 28 7:30 AM–Nov 29 1:30 AM IST; linked Luma confirms host approval is required and identifies the full TinkerSpace address. Overnight beginner-friendly buildathon themed around intentionally useless bots.",
+    "admission": "Approval required; official Luma says the event is private and participants must request to join; no price stated",
+    "notes": "Material schedule conflict versus the prior record. Current Kochi.buzz publishes Nov 28 1:00 PM–Nov 29 7:00 AM IST, while the linked official TinkerHub page continues to publish Nov 28 7:30 AM–Nov 29 1:30 AM. The official Luma page confirms TinkerSpace Kochi, approval-required registration, and the Useless Bots buildathon description but does not expose event times in the fetched page. No resolution is inferred.",
     "sources": [
       {
-        "label": "Official TinkerHub event",
+        "label": "Kochi.buzz event page",
+        "url": "https://kochi.buzz/events/tinkerhub-events-xlmnt169un"
+      },
+      {
+        "label": "Official TinkerHub organizer page",
         "url": "https://tinkerhub.org/events/XLMNT169UN/useless-bots-buildathon"
       },
       {
@@ -133,21 +137,25 @@
     "id": "codex-game-jam",
     "title": "Codex Community Game Jam",
     "category": "Hackathon / developer",
-    "start": "2026-11-20T14:00:00+05:30",
+    "start": "2026-11-20T19:30:00+05:30",
     "date": "Fri–Sat, Nov 20–21, 2026",
-    "time": "2:00 PM–2:00 AM IST",
-    "venue": "TinkerSpace, Kochi",
+    "time": "Kochi.buzz: 7:30 PM–7:30 AM IST; Luma states registration opens 7:00 PM, event begins 7:30 PM, and check-in closes 8:00 PM",
+    "venue": "TinkerSpace, Kalamassery, Kochi",
     "area": "Kalamassery / Kochi",
-    "admission": "Approval required; individual approval for each participant; no price stated",
-    "notes": "Material schedule/registration update versus baseline. TinkerHub header gives Nov 20 2:00 PM–Nov 21 2:00 AM IST; linked Luma says registration opens 7:00 PM, event begins 7:30 PM and check-in closes 8:00 PM, with individual host approval required. Exact address is hidden until registration; both sources identify TinkerSpace Kochi. Registration deadline on Luma is Nov 13 at 8:00 PM IST.",
+    "admission": "Registration closed on the official Luma page; individual host approval required",
+    "notes": "Material current-state update versus prior record: Kochi.buzz now publishes the 7:30 PM–7:30 AM schedule and TinkerSpace venue. The linked official Luma page currently says Registration Closed and describes individual approval for each participant. Luma identifies the event as an overnight, in-person game jam; exact address is shown only after registration.",
     "sources": [
       {
-        "label": "Official TinkerHub event",
-        "url": "https://tinkerhub.org/events/ES9ZMGV4ON/codex-community-game-jam"
+        "label": "Kochi.buzz event page",
+        "url": "https://kochi.buzz/events/tinkerhub-events-es9zmgv4on"
       },
       {
         "label": "Official Luma registration page",
         "url": "https://luma.com/qzms8nhq"
+      },
+      {
+        "label": "TinkerHub source page",
+        "url": "https://tinkerhub.org/events/ES9ZMGV4ON/codex-community-game-jam"
       }
     ]
   },
@@ -595,47 +603,47 @@
     "id": "chapter-1-origin",
     "title": "Chapter 1: ORIGIN",
     "category": "Music & entertainment",
-    "start": "2026-11-28",
-    "date": "Sat, Nov 28",
-    "time": "4 PM start; end-time conflict: 10 PM in SortMyScene header, 11 PM in FAQ and organizer info",
-    "venue": "Crowne Plaza Kochi, Kundanoor / Maradu",
+    "start": "2026-11-28T16:00:00+05:30",
+    "date": "Sat, Nov 28, 2026",
+    "time": "4:00–10:00 PM on the current SortMyScene page",
+    "venue": "Crowne Plaza Kochi, Kochi",
     "area": "Kundanoor / Maradu",
-    "admission": "From ₹1,899; cover redeemable on food / beverages",
-    "notes": "Lineup: YOUNA, NIRVAAN, SICKWENZ, sLick!, ELEMENTS DEEP. End time conflicts across the listing; verify before planning transport.",
+    "admission": "Current selectable offers: Phase II General Cover ₹1,899 (base ₹1,999; ₹500 redeemable), Phase II VIP Cover ₹2,849 (base ₹2,999; ₹1,000 redeemable), and VIP Backstage Pass Cover ₹5,699 (base ₹5,999; ₹2,000 redeemable). Phase I General Cover ₹1,899 and Phase I VIP Cover ₹3,324 are marked Sold Out.",
+    "notes": "Material availability change versus the prior record: current SortMyScene ticket inventory shows Phase II General, Phase II VIP, and VIP Backstage selectable, while both Phase I tiers are sold out. The current SortMyScene page states 4:00–10:00 PM; the prior record retained an end-time conflict with other listing/organizer information, so no external resolution is inferred here.",
     "sources": [
       {
-        "label": "SortMyScene tickets",
-        "url": "https://sortmyscene.com/event/chapter-1-origin-nov-28-2026"
+        "label": "SortMyScene ticket page",
+        "url": "https://sortmyscene.com/event/chapter-1-origin-nov-28-2026/tickets"
       },
       {
-        "label": "BookMyShow tickets",
-        "url": "https://in.bookmyshow.com/events/chapter-1-origin/etvu4zj090"
+        "label": "SortMyScene event page",
+        "url": "https://sortmyscene.com/event/chapter-1-origin-nov-28-2026"
       }
     ]
   },
   {
     "id": "moto-summit",
     "title": "Moto Summit Kochi 2026",
-    "category": "Music & entertainment / motorsport",
-    "start": "2026-11-21",
-    "date": "Sat, 21 Nov – Sun, 22 Nov 2026",
-    "time": "Gates open 12:00 PM; District page does not state closing time",
+    "category": "Music / DJ / motorsport / automotive festival",
+    "start": "2026-11-21T12:00:00+05:30",
+    "date": "Sat, Nov 21 – Sun, Nov 22, 2026",
+    "time": "Gates open at 12:00 PM; District event page does not state closing time",
     "venue": "The Grounds @ Chakola Mill, Ernakulam / Kalamassery, Kochi",
     "area": "Kalamassery",
-    "admission": "District ticket page currently shows ₹999 onwards",
-    "notes": "Material update versus baseline: current District ticket page shows ₹999 onwards, replacing baseline conflicting ₹299/₹399/₹599+ reports and one sold-out report. Event includes FMX, drifting, live music, international DJ performance, riding-club parade and automotive/lifestyle zones; ages 5+ and ID required.",
+    "admission": "Material current-price conflict: District Kochi collection currently shows ₹399 onwards, while the event-specific District ticket page currently shows ₹999 onwards.",
+    "notes": "Material admission-price discrepancy newly visible across two current District source views. The event-specific page still describes international FMX, drifting, live music, an international DJ performance, riding-club parade, automotive displays and lifestyle zones; ages 5+ and ID required. No date, venue or programme change was established.",
     "sources": [
       {
-        "label": "District ticket page",
+        "label": "District Kochi upcoming-events collection (₹399 listing)",
+        "url": "https://www.district.in/events/upcoming-events-in-kochi"
+      },
+      {
+        "label": "District event-specific ticket page (₹999 listing)",
         "url": "https://www.district.in/events/moto-summit-kochi-2026-nov21-2026-buy-tickets"
       },
       {
         "label": "Official Motoguard Racing event listing",
         "url": "https://motoguardracing.com/events-list-style/"
-      },
-      {
-        "label": "IndiaEve ticket page",
-        "url": "https://www.indiaeve.com/event/moto-summit-kochi-2026"
       }
     ]
   },
@@ -680,20 +688,20 @@
     "title": "KalaaVerse — The Creative Collective (Kochi Edition)",
     "category": "Art / music / workshops / pop-up market",
     "start": "2026-12-12",
-    "date": "Sat, Dec 12, 2026",
-    "time": "2:00–11:30 PM",
-    "venue": "Bacchus Lounge",
+    "date": "SortMyScene header: Sat Dec 12 2026 – Tue Jan 12 2027; event description: Saturday, Dec 12, 2026 (described as a 1-day experience)",
+    "time": "SortMyScene header: 2:00 PM–11:00 PM; description: 2:00 PM–11:30 PM",
+    "venue": "Bacchus Lounge, Kochi",
     "area": "Kochi",
-    "admission": "From ₹949 per baseline ticket listing; official organizer now says passes are live",
-    "notes": "Material availability update versus baseline: the official organizer post now says passes are live and entry is limited; workshop seats and early-access passes are limited. Date, time and Bacchus Lounge venue remain as in the baseline; organizer attribution is now explicitly KalaaVerse with Wabisabi Studio; no new price stated in the organizer post.",
+    "admission": "SortMyScene ticket page currently shows Early Bird Single Entry ₹949 (base ₹999) and Early Bird Couple Entry ₹1,708 (base ₹1,798); both selectable when checked. Tickets include workshops and every session as stated on the ticket page.",
+    "notes": "Material date/time conflict now present on the SortMyScene pages: the event header and ticket page display a range through Tue Jan 12, 2027 and 2:00–11:00 PM, while the description explicitly says the event is Saturday, Dec 12, 2026, a 1-day experience, with timing 2:00–11:30 PM. Venue and organizer attribution remain Bacchus Lounge and KalaaVerse x Wabisabi Studio. This is reported as a platform/source conflict without guessing which is correct.",
     "sources": [
       {
-        "label": "KalaaVerse official organizer announcement",
-        "url": "https://www.instagram.com/p/Dfm2wTNz2gP/"
+        "label": "SortMyScene event page",
+        "url": "https://sortmyscene.com/event/kalaaverse-the-creative-collective-dec-12-2026"
       },
       {
-        "label": "Baseline ticket listing",
-        "url": "https://sortmyscene.com/event/kalaaverse-the-creative-collective-dec-12-2026"
+        "label": "SortMyScene ticket page",
+        "url": "https://sortmyscene.com/event/kalaaverse-the-creative-collective-dec-12-2026/tickets"
       }
     ]
   },
@@ -2413,6 +2421,960 @@
       {
         "label": "Public organizer/promoter announcement (Instagram)",
         "url": "https://www.instagram.com/p/DbU65wlxamx/"
+      }
+    ]
+  },
+  {
+    "id": "kochi-nitro-run-puma-x-sector7-and-trbe",
+    "title": "Kochi Nitro Run - PUMA x Sector7 & TRBE",
+    "category": "Sports / community / running",
+    "start": "2026-11-15",
+    "date": "Sun, Nov 15, 2026",
+    "time": "Conflict by source: HappeningsAroundMe says 6:00 AM onwards; MakeMyPass event page lists 5:00 AM–10:00 AM and also says the run starts 6:00 AM onwards",
+    "venue": "Forum Kochi, Courtyard, Maradu",
+    "area": "Maradu / Greater Kochi",
+    "admission": "Registration fee ₹100 is stated in the official Forum Kochi organizer post; MakeMyPass currently says the registration form is closed. HappeningsAroundMe says register through the organizer bio, creating an availability conflict.",
+    "notes": "Newly surfaced relative to the prior results; no announcement date is asserted. Competitive 5 km run with prizes including PUMA running shoes. HappeningsAroundMe names Forum Mall, Maradu and 6 AM onwards; the event-specific registration page gives the same venue, states 5 AM–10 AM in its event details, and separately says scheduled start is 6 AM. Official Forum Kochi material confirms the event listing, while the event-specific MakeMyPass page is the source for the closed-registration status.",
+    "sources": [
+      {
+        "label": "HappeningsAroundMe event page",
+        "url": "https://happeningsaroundme.com/event/kochi-puma-kochi-nitro-run"
+      },
+      {
+        "label": "Event-specific MakeMyPass registration page",
+        "url": "https://makemypass.com/event/kochi-nitro-run"
+      },
+      {
+        "label": "Forum Kochi official page",
+        "url": "https://www.forummalls.in/pages/forum-kochi"
+      },
+      {
+        "label": "Forum Kochi organizer announcement",
+        "url": "https://www.facebook.com/forumkochi/posts/1068368549550650/"
+      }
+    ]
+  },
+  {
+    "id": "afro-society-lumo-and-nox",
+    "title": "Afro Society | Lumo & Nox",
+    "category": "Music / Afro house / DJ",
+    "start": "2026-11-15T19:00:00+05:30",
+    "date": "Sun, Nov 15, 2026",
+    "time": "7:00 PM–3:00 AM IST",
+    "venue": "Lumo & Nox, 11th Floor, Radisson Blu, Kochi",
+    "area": "Kochi",
+    "admission": "Reservation/contact number listed; ticket price not stated",
+    "notes": "Newly surfaced relative to the prior results. EventsAroundMe describes this as a recurring Sunday Afro music event. Public venue/organizer evidence confirms the Lumo & Nox location; availability and ticket terms were not stated. The event runs past midnight into Nov 16.",
+    "sources": [
+      {
+        "label": "EventsAroundMe event listing",
+        "url": "https://eventsaroundme.in/event/1b8eefe5-fd8e-4fc9-98b7-ed04a3bdc538"
+      },
+      {
+        "label": "Radisson Blu Kochi — Lumo & Nox venue page",
+        "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kochi/dining/lumo-nox-restro-bar"
+      },
+      {
+        "label": "Lumo & Nox public announcement/search result",
+        "url": "https://www.instagram.com/p/DDzKZIKS6II/"
+      }
+    ]
+  },
+  {
+    "id": "festive-fusion-2026",
+    "title": "Festive Fusion 2026",
+    "category": "Pop-up / shopping / entertainment",
+    "start": "2026-11-22T11:00:00+05:30",
+    "date": "Sun, Nov 22, 2026",
+    "time": "11:00 AM–9:00 PM IST",
+    "venue": "IMA Hall, Stadium Link Road, Kochi",
+    "area": "Kochi",
+    "admission": "No ticket or registration link listed",
+    "notes": "Newly surfaced relative to the prior results. EventsAroundMe search text incorrectly calls Nov 22 Saturday; the official Damora announcement calls it Sunday, which matches the 2026 calendar, and states 11 AM–9 PM. Public promotion describes an indoor shopping and entertainment carnival combining Diwali and Christmas themes.",
+    "sources": [
+      {
+        "label": "EventsAroundMe event listing",
+        "url": "https://eventsaroundme.in/event/5044fc9c-d556-4372-9049-b246693ba98f"
+      },
+      {
+        "label": "Damora organizer announcement",
+        "url": "https://www.instagram.com/p/DfWJw64Paeb/"
+      },
+      {
+        "label": "Damora event promotion",
+        "url": "https://www.instagram.com/reel/DetIcqsvXt-/"
+      }
+    ]
+  },
+  {
+    "id": "the-kollam-carnival",
+    "title": "The Kollam Carnival",
+    "category": "Festival / live music / dance / culture",
+    "start": "2026-12-18",
+    "date": "Fri–Sun, Dec 18–20, 2026",
+    "time": "Not stated",
+    "venue": "Asramam, Kollam",
+    "area": "Kollam, Kerala",
+    "admission": "Not stated; vendor registrations advertised",
+    "notes": "Newly surfaced relative to the prior results. EventsAroundMe describes live music, dance and cultural experiences and says vendor registrations are open. The public organizer announcement confirms 18–20 December 2026 at Asramam, Kollam; attendee ticketing and daily schedule were not provided.",
+    "sources": [
+      {
+        "label": "EventsAroundMe event listing",
+        "url": "https://eventsaroundme.in/event/1b78212f-3565-4619-81c1-7cf4821ac5ee"
+      },
+      {
+        "label": "Organizer vendor-registration announcement",
+        "url": "https://www.instagram.com/p/DetQh99ps4z/"
+      },
+      {
+        "label": "Conquest Events public profile",
+        "url": "https://www.instagram.com/conquest_events/"
+      }
+    ]
+  },
+  {
+    "id": "zone-of-interest-volume-2",
+    "title": "ZONE OF INTEREST – VOLUME 2",
+    "category": "Hip-hop culture / dance / art / creative community",
+    "start": "2026-12-27",
+    "date": "Sun, Dec 27, 2026",
+    "time": "Not stated",
+    "venue": "Kochi; exact venue not stated",
+    "area": "Kochi",
+    "admission": "Not stated",
+    "notes": "Newly surfaced relative to the prior results. EventsAroundMe says the event returns to Kochi on Dec 27 for a community-focused celebration of hip-hop culture, movement, art and creative expression. The organizer’s public social profile promotes “CHAPTER 2 — 26 & 27 DECEMBER 2026 | KOCHI,” creating a date-scope conflict with the EventsAroundMe listing; exact venue, time, ticketing and whether Dec 26 is a separate program day are not stated.",
+    "sources": [
+      {
+        "label": "EventsAroundMe event listing",
+        "url": "https://eventsaroundme.in/event/004e2eff-ca5e-45fa-a07d-dc49605becf4"
+      },
+      {
+        "label": "ZOI organizer Instagram profile",
+        "url": "https://www.instagram.com/zone_of_interest/?__d=1%3Futm_source%3Dig_embed!"
+      },
+      {
+        "label": "ZOI public Chapter 2 announcement",
+        "url": "https://www.instagram.com/reel/DYJXfO1x13G/"
+      }
+    ]
+  },
+  {
+    "id": "coffee-rave-party",
+    "title": "Coffee Rave Party",
+    "category": "Nightlife / EDM / dance",
+    "start": "2026-11-22T16:00:00+05:30",
+    "date": "Sun, Nov 22, 2026",
+    "time": "4:00–7:00 PM IST",
+    "venue": "Loa Cafe - Slow Burn Social Lounge, 1st Cross Road, Panampilly Nagar",
+    "area": "Panampilly Nagar",
+    "admission": "Price not stated; ticket link present",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Kochi2go and AllEvents describe a coffee-and-beats rave; age limit 16+ and government photo ID required per AllEvents.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/coffee-rave-party-20261122-5d76c1"
+      },
+      {
+        "label": "AllEvents event page",
+        "url": "https://allevents.in/kochi/coffee-rave-party/3900031041260644"
+      }
+    ]
+  },
+  {
+    "id": "fitness-rave",
+    "title": "Fitness Rave",
+    "category": "Music / DJ / wellness / social",
+    "start": "2026-11-22T15:00:00+05:30",
+    "date": "Sun, Nov 22, 2026",
+    "time": "3:00–7:00 PM; after-hours from 7:30 PM",
+    "venue": "Millennials Restobar",
+    "area": "Kochi",
+    "admission": "From ₹1,699; limited spots; after-hours included with Carnival Pass per ticket page",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Fitness festival with DJ, challenges, games, wellness pop-ups and food. SortMyScene says 18+ for the rave, 23+ for after-hours; entry closes at 3:30 PM.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/fitness-rave-20261122-2da748"
+      },
+      {
+        "label": "SortMyScene ticket page",
+        "url": "https://www.sortmyscene.com/event/fitness-party-nov-22-2026"
+      }
+    ]
+  },
+  {
+    "id": "the-rudy-wallang-band",
+    "title": "The Rudy Wallang Band",
+    "category": "Live music / blues / rock / reggae",
+    "start": "2026-11-24T19:30:00+05:30",
+    "date": "Tue, Nov 24, 2026",
+    "time": "7:30 PM onwards; Kochi2go says performance runs to 10:00 PM",
+    "venue": "Pulse",
+    "area": "Kochi",
+    "admission": "From ₹999; convenience fees may apply",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Rudy Wallang leads a band with Leon Wallang, Vincent Tariang, Gregory Nongrum and Brian Suting; ticket page lists blues, rhythm & blues, rock ’n’ roll and reggae.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/the-rudy-wallang-band-20261124-0f343b"
+      },
+      {
+        "label": "SortMyScene ticket page",
+        "url": "https://www.sortmyscene.com/event/the-rudy-wallang-band-nov-24-2026"
+      }
+    ]
+  },
+  {
+    "id": "dhanam-bfsi-summit-and-award-nite-2026",
+    "title": "Dhanam BFSI Summit & Award Nite 2026",
+    "category": "Business / finance / insurance / networking",
+    "start": "2026-11-25T09:30:00+05:30",
+    "date": "Wed, Nov 25, 2026",
+    "time": "9:30 AM–9:30 PM IST",
+    "venue": "Le Méridien Kochi, Maradu",
+    "area": "Maradu",
+    "admission": "₹4,500 + GST (₹5,310 total) for 500+ delegates, per AllEvents",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. BFSI summit and evening awards; the original listing identifies banking, finance, insurance and investment coverage.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/dhanam-bfsi-summit-award-nite-2026-20261125-3e4ac5"
+      },
+      {
+        "label": "AllEvents event page",
+        "url": "https://allevents.in/kochi/dhanam-bfsi-summit-and-award-nite-2026/200030853201149"
+      }
+    ]
+  },
+  {
+    "id": "global-university-fair-in-kochi",
+    "title": "Global University Fair in Kochi",
+    "category": "Education / professional guidance",
+    "start": "2026-11-25T11:00:00+05:30",
+    "date": "Wed, Nov 25, 2026",
+    "time": "11:00 AM–4:00 PM IST",
+    "venue": "Vivanta Ernakulam, Marine Drive, Shanmugham Road",
+    "area": "Marine Drive",
+    "admission": "Free; free tickets available",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. University representatives from the UK, Australia, Canada, New Zealand, Dubai, Ireland and the US; programmes, scholarships, visa and application guidance are advertised.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/global-university-fair-in-kochi-20261125-b15100"
+      },
+      {
+        "label": "AllEvents event page",
+        "url": "https://allevents.in/kochi/global-university-fair-in-kochi/100002004276020531"
+      }
+    ]
+  },
+  {
+    "id": "lil-big-room",
+    "title": "Lil Big Room",
+    "category": "Indie live music",
+    "start": "2026-11-27T18:00:00+05:30",
+    "date": "Fri, Nov 27, 2026",
+    "time": "6:00 PM onwards",
+    "venue": "AAL Studio",
+    "area": "Kochi",
+    "admission": "From ₹500; ticket terms state non-cancellable/non-refundable",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Indie-pop artist Jeremiah de Rozario performs with his band, the Nice Kids; SortMyScene describes it as the first annual IP showcasing his music.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/lil-big-room-20261127-96d52a"
+      },
+      {
+        "label": "SortMyScene ticket page",
+        "url": "https://www.sortmyscene.com/event/lil-big-room-nov-27-2026"
+      }
+    ]
+  },
+  {
+    "id": "dr-sam-kadammanitta-chorale-christmas-recording",
+    "title": "Dr. Sam Kadammanitta Chorale Christmas Recording",
+    "category": "Music / choir recording",
+    "start": "2026-11-28T14:00:00+05:30",
+    "date": "Sat–Sun, Nov 28–29, 2026",
+    "time": "2:00–8:00 PM both days per AllEvents",
+    "venue": "Kakkanad, Kochi; exact recording venue not stated",
+    "area": "Kakkanad",
+    "admission": "No ticket price stated; participation form advertised",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Source conflict: Kochi2go shows Sat Nov 28 at 2:00 PM only, while the linked AllEvents organizer listing says recording and video shoot on Nov 28–29, 2:00–8:00 PM both days. Do not assume a public-concert format; the organizer page invites choir participation.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/dr-sam-kadammanitta-chorale-christmas-recording-20261128-316ca2"
+      },
+      {
+        "label": "AllEvents organizer listing",
+        "url": "https://allevents.in/kochi/dr-sam-kadammanitta-chorale-christmas-recording/200031029150746"
+      }
+    ]
+  },
+  {
+    "id": "transactional-analysis-ta-2-day-business-communication-workshop",
+    "title": "Transactional Analysis (TA): 2-Day Business Communication Workshop",
+    "category": "Workshop / business communication / psychology",
+    "start": "2026-11-28T10:00:00+05:30",
+    "date": "Sat–Sun, Nov 28–29, 2026",
+    "time": "10:00 AM start; AllEvents displays through 10:00 AM Nov 29",
+    "venue": "Holiday Inn Kochi, 1 Kanivappilli Road",
+    "area": "Vennala",
+    "admission": "Price not stated; tickets available",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Two-day workshop on Transactional Analysis and communication patterns for professional relationships.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/transactional-analysis-ta-2-day-business-communication-works-20261128-8395f7"
+      },
+      {
+        "label": "AllEvents event page",
+        "url": "https://allevents.in/ernakulam/transactional-analysis-ta-2-day-business-communication-workshop/200030996088754"
+      }
+    ]
+  },
+  {
+    "id": "algo-trading-ai-for-beginners-zerodha-bootcamp-kochi-edition",
+    "title": "Algo Trading + AI for Beginners — Zerodha Bootcamp Kochi Edition",
+    "category": "Technology / AI / finance workshop",
+    "start": "2026-12-05T10:30:00+05:30",
+    "date": "Sat, Dec 5, 2026",
+    "time": "10:30 AM–1:30 PM IST",
+    "venue": "Gokulam Park Hotel and Convention Center Kochi, National Highway, Banerji Road, Kaloor",
+    "area": "Kaloor",
+    "admission": "Free; registration mandatory; limited seats; active Kite account and laptop required for hands-on exercises",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Hands-on introduction to algo trading with AI, APIs, market data, strategies, execution workflows and portfolio analytics.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/algo-trading-ai-for-beginners-zerodha-bootcamp-kochi-edition-20261205-703f25"
+      },
+      {
+        "label": "Official Luma event page",
+        "url": "https://luma.com/6de1sb7c"
+      }
+    ]
+  },
+  {
+    "id": "bridge-con-2026",
+    "title": "Bridge Con 2026",
+    "category": "Professional conference / construction law / infrastructure",
+    "start": "2026-12-05T08:30:00+05:30",
+    "date": "Sat–Sun, Dec 5–6, 2026",
+    "time": "8:30 AM start; end time not stated",
+    "venue": "Conflict by source: Kochi2go/AllEvents header says Hotel Mercy Cochin, Perumanoor; event description says Mercy Luxury Business Hotel, Ravipuram",
+    "area": "Perumanoor / Ravipuram",
+    "admission": "Student ₹1,500; regular domestic ₹3,000; foreign USD 120 / ₹10,000; optional Dec 4 gala cruise ₹3,500, per organizer description",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Date conflict: Kochi2go and the AllEvents header show Dec 5 only, while the event description states Dec 5–6. The original description says delegate registrations are open and focuses on infrastructure litigation, adjudication and cash-flow disputes.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/bridge-con-2026-20261205-117c8c"
+      },
+      {
+        "label": "AllEvents event page with organizer description",
+        "url": "https://allevents.in/ernakulam/bridge-con-2026/200031004478008"
+      }
+    ]
+  },
+  {
+    "id": "cii-global-ayurveda-summit-and-expo-2026",
+    "title": "CII Global Ayurveda Summit & Expo 2026",
+    "category": "Professional conference / expo / healthcare / Ayurveda",
+    "start": "2026-11-20T00:00:00+05:30",
+    "date": "Fri–Sat, Nov 20–21, 2026",
+    "time": "Time not stated",
+    "venue": "Hotel Le Meridien Kochi",
+    "area": "Maradu / Kundannoor",
+    "admission": "Visitor/exhibitor registration links present; price not stated",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. 8th edition; TradeIndia lists 4,000+ expected visitors, 100+ exhibitors and 15 countries. Distinct from the separately listed CII Kerala Health Tourism conference at the same venue and dates.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/cii-global-ayurveda-summit-expo-2026-20261120-831577"
+      },
+      {
+        "label": "TradeIndia event page",
+        "url": "https://www.tradeindia.com/tradeshows/156901/cii-global-ayurveda-summit-expo.html"
+      }
+    ]
+  },
+  {
+    "id": "kerala-health-tourism-international-conference-and-exhibition-2026",
+    "title": "Kerala Health Tourism - International Conference & Exhibition 2026",
+    "category": "Professional conference / expo / health tourism",
+    "start": "2026-11-20T00:00:00+05:30",
+    "date": "Fri–Sat, Nov 20–21, 2026",
+    "time": "Time not stated",
+    "venue": "Hotel Le Meridien Kochi",
+    "area": "Maradu / Kundannoor",
+    "admission": "Visitor/exhibitor registration links present; price not stated",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. 13th edition of CII Kerala Health; TradeIndia lists 4,000+ expected visitors, 100+ exhibitors and 15 countries. Distinct from the separately listed CII Global Ayurveda Summit & Expo at the same venue and dates.",
+    "sources": [
+      {
+        "label": "Kochi2go event page",
+        "url": "https://kochi2go.in/event/kerala-health-tourism-international-conference-exhibition-20-20261120-051979"
+      },
+      {
+        "label": "TradeIndia event page",
+        "url": "https://www.tradeindia.com/tradeshows/156881/kerala-health-tourism-international-conference-exhibition.html"
+      }
+    ]
+  },
+  {
+    "id": "lost-lots-of-special-things-movement-exploration-workshop",
+    "title": "LOST – Lots Of Special Things | Movement Exploration Workshop",
+    "category": "Workshop / movement / social",
+    "start": "2026-11-14T19:30:00+05:30",
+    "date": "Sat, Nov 14, 2026",
+    "time": "7:30 PM; duration listed 1.5 hours",
+    "venue": "COFE, Thurutheparambu Road, Chembumukku, Vazhakkala, Kakkanad, Kochi",
+    "area": "Vazhakkala / Kakkanad",
+    "admission": "₹999",
+    "notes": "Newly surfaced relative to prior results. Children's-Day movement exploration workshop; starts after the 7:07 PM cutoff. WhatsAroundMe lists English/Malayalam and all ages. Organizer-side Instagram announcements identify Labyrinth; the event-specific EventsAroundMe page was fetched but returned only shell content in this environment.",
+    "sources": [
+      {
+        "label": "WhatsAroundMe event page",
+        "url": "https://whatsaround.app/home/events/lost-lots-of-special-things-movement-exploration-workshop"
+      },
+      {
+        "label": "EventsAroundMe event page",
+        "url": "https://eventsaroundme.in/event/98431c36-0834-455c-9870-921366168bb8"
+      },
+      {
+        "label": "Organizer announcement (Instagram)",
+        "url": "https://www.instagram.com/p/DfUnfhwPzbp/"
+      }
+    ]
+  },
+  {
+    "id": "hi-strangers-kochi",
+    "title": "HI STRANGERS (KOCHI)",
+    "category": "Social mixer",
+    "start": "2026-11-15T17:00:00+05:30",
+    "date": "Sun, Nov 15, 2026",
+    "time": "5:00 PM; duration listed 1.5 hours",
+    "venue": "Subhash Bose Park, Park Avenue, Marine Drive, Kochi",
+    "area": "Kochi / Marine Drive",
+    "admission": "₹199 onwards; WhatsAroundMe states no more bookings",
+    "notes": "Newly surfaced relative to prior results. 18+ gathering intended for strangers to meet and have conversations. Availability is explicitly closed on the WhatsAroundMe page.",
+    "sources": [
+      {
+        "label": "WhatsAroundMe event page",
+        "url": "https://whatsaround.app/home/events/hi-strangers-kochi"
+      }
+    ]
+  },
+  {
+    "id": "guitar-basics",
+    "title": "Guitar Basics",
+    "category": "Learning / music workshop",
+    "start": "2026-11-15T15:00:00+05:30",
+    "date": "Sun, Nov 15, 2026",
+    "time": "3:00 PM; duration listed 3 hours",
+    "venue": "TAC – The Artists' Cafe, Sreevaraham Lane, Thiruvananthapuram",
+    "area": "Thiruvananthapuram",
+    "admission": "₹299",
+    "notes": "Newly surfaced relative to prior results and worthwhile elsewhere in Kerala. Beginner hands-on session covering four essential guitar chords; English/Malayalam. Organizer promotion dated Nov 13 was found on WhatsAround Thiruvananthapuram social channels.",
+    "sources": [
+      {
+        "label": "WhatsAroundMe event page",
+        "url": "https://whatsaround.app/home/events/guitar-basics"
+      },
+      {
+        "label": "WhatsAround Thiruvananthapuram / organizer promotion",
+        "url": "https://www.instagram.com/p/DfpWucCzgZg/"
+      }
+    ]
+  },
+  {
+    "id": "vishnu-pai-live-stand-up-comedy-special",
+    "title": "Vishnu Pai Live | Stand-Up Comedy Special",
+    "category": "Comedy / live performance",
+    "start": "2026-11-15T20:00:00+05:30",
+    "date": "Sun, Nov 15, 2026",
+    "time": "8:00 PM; duration listed 1.5 hours",
+    "venue": "The Reading Room Trivandrum, Sreekariyam–Aakkulam Road, Cheruvaikkal, Thiruvananthapuram",
+    "area": "Thiruvananthapuram",
+    "admission": "₹499",
+    "notes": "Newly surfaced relative to prior results and a later Kerala live event. 18+ English stand-up special.",
+    "sources": [
+      {
+        "label": "WhatsAroundMe event page",
+        "url": "https://whatsaround.app/home/events/vishnu-pai-live-stand-up-comedy-special"
+      }
+    ]
+  },
+  {
+    "id": "open-car-simulator-challenge",
+    "title": "OPEN CAR SIMULATOR CHALLENGE",
+    "category": "Maker / gaming / motorsport",
+    "start": "2026-11-21T11:00:00+05:30",
+    "date": "Sat–Sun, Nov 21–22, 2026",
+    "time": "11:00 AM start; Oberon Mall official page lists closing at 9:00 PM on Nov 22, but no Nov 21 closing time",
+    "venue": "Oberon Mall, 195 Road, NH Bypass, Padivattom, Edappally, Kochi",
+    "area": "Edappally / Greater Kochi",
+    "admission": "₹499 onwards; Oberon Mall lists ₹499 and official promotion says early-bird entry ₹499 through Nov 16, then ₹799",
+    "notes": "Newly surfaced relative to prior results. Kerala's first open car simulator challenge; WhatsAroundMe says multiple slots and ₹499 onwards. Oberon Mall organizer page confirms Nov 21 11 AM–Nov 22 9 PM, age 14+, and prizes up to ₹20,000.",
+    "sources": [
+      {
+        "label": "WhatsAroundMe event page",
+        "url": "https://whatsaround.app/home/events/open-car-simulator-challenge"
+      },
+      {
+        "label": "Oberon Mall official organizer/event listing",
+        "url": "https://oberonmall.com/organizer/oberon-mall/"
+      },
+      {
+        "label": "RaceGrid/Oberon organizer announcement",
+        "url": "https://www.instagram.com/reel/Dfrk41uR4uC/"
+      }
+    ]
+  },
+  {
+    "id": "electro-cult-vol-2-amigoz-hub-trivandrum",
+    "title": "ELECTRO CULT VOL. 2 | Amigoz Hub, Trivandrum",
+    "category": "Underground music / DJ / nightlife",
+    "start": "2026-12-19T19:00:00+05:30",
+    "date": "Sat, Dec 19, 2026",
+    "time": "7:00 PM; duration listed 4 hours",
+    "venue": "Amigoz Hub, near Infosys, Kulathoor, Trivandrum",
+    "area": "Thiruvananthapuram",
+    "admission": "₹999 onwards",
+    "notes": "Newly surfaced relative to prior results and prioritized as an underground electronic event elsewhere in Kerala. The accessible WhatsAroundMe page provides the December 19 Vol. 2 listing. A fetched Electro Cult/WhatsAround social post independently describes a different July 25 event at the same venue, so it is not used to infer December lineup or availability.",
+    "sources": [
+      {
+        "label": "WhatsAroundMe event page",
+        "url": "https://whatsaround.app/home/events/electro-cult-vol-2-amigoz-hub-trivandrum"
+      },
+      {
+        "label": "Electro Cult/WhatsAround social post (different July event; conflict noted)",
+        "url": "https://www.instagram.com/p/Da40DKZzHYT/"
+      }
+    ]
+  },
+  {
+    "id": "pub-quiz-in-kochi",
+    "title": "Pub Quiz in Kochi",
+    "category": "Social meetup / quiz",
+    "start": "2026-11-21",
+    "date": "Sat, Nov 21, 2026",
+    "time": "Not stated in the Reddit announcement or accessible registration page",
+    "venue": "Not stated in the Reddit announcement or accessible registration page",
+    "area": "Kochi",
+    "admission": "Not stated; registration link provided",
+    "notes": "Newly surfaced relative to the prior results: a Reddit r/Kochi post made approximately 1 hour before the scan describes a pub quiz intended to build a Kochi quizzing community and links to registration. The linked Offlyn page was checked but returned only ‘Loading...’, so no further facts are asserted.",
+    "sources": [
+      {
+        "label": "Reddit r/Kochi announcement",
+        "url": "https://www.reddit.com/r/Kochi/comments/1xw16tp/pub_quiz_in_kochi_21st_november/"
+      },
+      {
+        "label": "Registration link supplied in Reddit post",
+        "url": "https://offlyn.life/e/rG8Xinv"
+      }
+    ]
+  },
+  {
+    "id": "blood-on-the-clocktower-live-social-mystery",
+    "title": "Blood on the Clocktower — Live Social Mystery",
+    "category": "Social meetup / live mystery game",
+    "start": "2026-11-15T15:30:00+05:30",
+    "date": "Sun, Nov 15, 2026",
+    "time": "3:30–6:30 PM IST",
+    "venue": "Matchdays by Xgnomics, 1st Floor, B Kaladarshana Junction, Stadium Link Rd, above Best Bakery, Kathrikadavu, Kaloor, Kochi",
+    "area": "Kaloor",
+    "admission": "BOTC Premium Character Pass ₹250 plus convenience fee; ticket page showed 6 tickets left when checked",
+    "notes": "Newly surfaced relative to the prior results. The Reddit r/Kochi announcement links to the official MakeMyPass ticket page. Matchdays’ organizer Instagram announcement is dated Nov 12, 2026; the ticket page confirms the date, time, venue, host, price and remaining-ticket note. Beginner-friendly social deduction game; no prior experience required.",
+    "sources": [
+      {
+        "label": "Reddit r/Kochi announcement",
+        "url": "https://www.reddit.com/r/Kochi/comments/1xv257s/blood_on_the_clocktower_live_social_mystery_game/"
+      },
+      {
+        "label": "Official MakeMyPass ticket page",
+        "url": "https://makemypass.com/event/blood-on-the-clocktower-nov-15"
+      },
+      {
+        "label": "Matchdays organizer announcement",
+        "url": "https://www.instagram.com/p/Dfqsom8TC9x/"
+      }
+    ]
+  },
+  {
+    "id": "an-architectural-deep-dive-into-new-clpr-cross-ledger-protocol-lab",
+    "title": "An Architectural Deep Dive into New CLPR (Cross-Ledger Protocol) Lab",
+    "category": "Open source / blockchain / developer learning",
+    "start": "2026-11-18T21:30:00+05:30",
+    "date": "Wed, Nov 18, 2026",
+    "time": "9:30 PM IST",
+    "venue": "Online via Meetup/Zoom",
+    "area": "Kochi group / online",
+    "admission": "Free online Meetup event; link visible to attendees on Meetup",
+    "notes": "Newly surfaced relative to the prior results; no verifiable public announcement date was exposed. Technical deep dive covering CLPR architecture, trust model, EVM/non-EVM adaptation, Hiero and Besu implementations, live demo, and Q&A. Meetup states the event is shared across 150 groups.",
+    "sources": [
+      {
+        "label": "Meetup event page",
+        "url": "https://www.meetup.com/lfdt-kochi/events/316665127/"
+      },
+      {
+        "label": "LFDT Kochi upcoming-events listing",
+        "url": "https://www.meetup.com/lfdt-kochi/events/"
+      }
+    ]
+  },
+  {
+    "id": "zk-learning-group-zk-identity-supporting-aml-kyc-with-zk",
+    "title": "ZK Learning Group: ZK Identity, supporting AML/KYC with ZK",
+    "category": "Zero knowledge / blockchain security / open source",
+    "start": "2026-11-19T22:30:00+05:30",
+    "date": "Thu, Nov 19, 2026",
+    "time": "10:30 PM IST",
+    "venue": "Online via Meetup/Zoom",
+    "area": "Kochi group / online",
+    "admission": "Free online Meetup event; link visible to attendees on Meetup",
+    "notes": "Newly surfaced relative to the prior results; no verifiable public announcement date was exposed. Session focuses on zero-knowledge identities and AML/KYC possibilities, with links to the LFDT Discord and ZK learning-group repository. Meetup states it is shared across 149 groups.",
+    "sources": [
+      {
+        "label": "Meetup event page",
+        "url": "https://www.meetup.com/lfdt-kochi/events/317064956/"
+      },
+      {
+        "label": "LFDT Kochi upcoming-events listing",
+        "url": "https://www.meetup.com/lfdt-kochi/events/"
+      }
+    ]
+  },
+  {
+    "id": "talk-to-eudi-wallets-without-reading-1-400-pages-of-specs",
+    "title": "Talk to EUDI Wallets Without Reading 1,400 Pages of Specs",
+    "category": "Open source / digital identity / developer learning",
+    "start": "2026-12-08T22:30:00+05:30",
+    "date": "Tue, Dec 8, 2026",
+    "time": "10:30 PM IST",
+    "venue": "Online via Meetup/Zoom",
+    "area": "Kochi group / online",
+    "admission": "Free online Meetup event; link visible to attendees on Meetup",
+    "notes": "Newly surfaced relative to the prior results; no verifiable public announcement date was exposed. Covers EUDIPLO, OID4VCI, OID4VP, SD-JWT VC, ISO mdoc, trust lists, conformance testing, multi-tenancy, a demo, and contribution paths. Meetup states it is shared across 150 groups.",
+    "sources": [
+      {
+        "label": "Meetup event page",
+        "url": "https://www.meetup.com/lfdt-kochi/events/317415380/"
+      },
+      {
+        "label": "LFDT Kochi upcoming-events listing",
+        "url": "https://www.meetup.com/lfdt-kochi/events/"
+      }
+    ]
+  },
+  {
+    "id": "lfdt-mentorship-talent-angels-final-mentorship-presentation",
+    "title": "LFDT Mentorship: Talent Angels - Final Mentorship Presentation",
+    "category": "AI / mentorship / open source",
+    "start": "2026-12-09T22:30:00+05:30",
+    "date": "Wed, Dec 9, 2026",
+    "time": "10:30 PM IST",
+    "venue": "Online via Meetup/Zoom",
+    "area": "Kochi group / online",
+    "admission": "Free online Meetup event; link visible to attendees on Meetup",
+    "notes": "Newly surfaced relative to the prior results; no verifiable public announcement date was exposed. Final presentation in the Talent Angels mentorship series, connected to the LFX Mentorship project on AI Graph Agents for Human Skills Empowerment. Meetup states it is shared across 150 groups.",
+    "sources": [
+      {
+        "label": "Meetup event page",
+        "url": "https://www.meetup.com/lfdt-kochi/events/317065177/"
+      },
+      {
+        "label": "LFDT Kochi upcoming-events listing",
+        "url": "https://www.meetup.com/lfdt-kochi/events/"
+      }
+    ]
+  },
+  {
+    "id": "introducing-thunderid-open-source-identity-for-humans-ai-agents-and-machines",
+    "title": "Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines",
+    "category": "AI/ML / open source / identity and access management",
+    "start": "2026-12-10T21:30:00+05:30",
+    "date": "Thu, Dec 10, 2026",
+    "time": "9:30 PM IST",
+    "venue": "Online via Meetup/Zoom",
+    "area": "Kochi group / online",
+    "admission": "Free online Meetup event; link visible to attendees on Meetup",
+    "notes": "Newly surfaced relative to the prior results; no verifiable public announcement date was exposed. Introduces ThunderID, an LF Decentralized Trust incubation project built in Go, including agent identity, post-quantum safety, decentralized-identity integration, GitOps support, and demos. Meetup states it is shared across 150 groups.",
+    "sources": [
+      {
+        "label": "Meetup event page",
+        "url": "https://www.meetup.com/lfdt-kochi/events/317272320/"
+      },
+      {
+        "label": "LFDT Kochi upcoming-events listing",
+        "url": "https://www.meetup.com/lfdt-kochi/events/"
+      }
+    ]
+  },
+  {
+    "id": "dag-connect-nov-2026-things-i-m-doing-to-stay-relevant-as-a-pbi-in-an-ai-world",
+    "title": "DAG Connect Nov 2026- Things I'm Doing to Stay Relevant as a PBI in an AI World",
+    "category": "AI / data analytics / Power BI professional learning",
+    "start": "2026-11-28T18:00:00+05:30",
+    "date": "Sat, Nov 28, 2026",
+    "time": "6:00 PM IST",
+    "venue": "Online via Meetup",
+    "area": "Kochi-area discovery / online",
+    "admission": "Free online Meetup event; link visible to attendees on Meetup",
+    "notes": "Newly surfaced relative to the prior results; no verifiable public announcement date was exposed. Session led by Santhana Lakshmi Ponnurasan, a Power BI DataViz World Championships 2025 and 2026 finalist and Microsoft MVP, on practical ways Power BI developers can adapt as AI changes report-building work. The event-specific page confirms the online format and topic; the Meetup Kochi next-month index supplies the Nov 28, 6:00 PM IST schedule.",
+    "sources": [
+      {
+        "label": "Meetup event page",
+        "url": "https://www.meetup.com/dataanalyticgroup/events/317149847/"
+      },
+      {
+        "label": "Meetup Kochi next-month listing",
+        "url": "https://www.meetup.com/find/?location=in--kochi&dateRange=next-month"
+      }
+    ]
+  },
+  {
+    "id": "abhang-a-live-sacred-music-experience-by-odeum",
+    "title": "ABHANG - A LIVE SACRED MUSIC EXPERIENCE BY ODEUM",
+    "category": "Music / devotional / classical",
+    "start": "2026-11-14T20:30:00+05:30",
+    "date": "Sat, Nov 14–Sat, Dec 12, 2026",
+    "time": "8:30 PM; 45 minutes",
+    "venue": "Napier Heritage Fort, Kochi",
+    "area": "Fort Kochi",
+    "admission": "₹500; Available",
+    "notes": "Newly surfaced relative to the prior results. BookMyShow describes a live Abhang devotional music experience with vocalist, harmonium and tabla, at Kochi Folklore Odeum. The page displays a recurring date range from Nov 14 through Dec 12 at 8:30 PM.",
+    "sources": [
+      {
+        "label": "BookMyShow event page",
+        "url": "https://in.bookmyshow.com/events/abhang-a-live-sacred-music-experience-by-odeum/ET00491182"
+      }
+    ]
+  },
+  {
+    "id": "sabari-s-koothu-standup-comedy-show",
+    "title": "Sabari's Koothu - Standup comedy show",
+    "category": "Comedy / Malayalam stand-up",
+    "start": "2026-11-21T19:00:00+05:30",
+    "date": "Sat, Nov 21, 2026",
+    "time": "7:00 PM; 1 hour 15 minutes",
+    "venue": "CubeCountry, Ernakulam",
+    "area": "Ernakulam",
+    "admission": "₹499 onwards; Available",
+    "notes": "Newly surfaced relative to the prior results. BookMyShow calls this a new Malayalam stand-up show combining observations and crowd work, by Sabareesh (Standupsabari). Age limit 12+.",
+    "sources": [
+      {
+        "label": "BookMyShow event page",
+        "url": "https://in.bookmyshow.com/events/sabari-s-koothu-standup-comedy-crowd-work-show/ET00415605"
+      }
+    ]
+  },
+  {
+    "id": "monthly-updates-by-vishnu-pai",
+    "title": "Monthly Updates by Vishnu Pai",
+    "category": "Comedy / stand-up",
+    "start": "2026-11-29T18:00:00+05:30",
+    "date": "Sun, Nov 29, 2026",
+    "time": "6:00 PM; 1 hour 30 minutes",
+    "venue": "Spotlight Socials, Kochi",
+    "area": "Kochi",
+    "admission": "₹499; Available",
+    "notes": "Newly surfaced relative to the prior results. Monthly stand-up format covering the previous month with brand-new material, month-in-review and crowd work. Age limit 16+.",
+    "sources": [
+      {
+        "label": "BookMyShow event page",
+        "url": "https://in.bookmyshow.com/events/monthly-updates-by-vishnu-pai/ET00509823"
+      }
+    ]
+  },
+  {
+    "id": "federal-bank-kochi-marathon-2027",
+    "title": "Federal Bank Kochi Marathon 2027",
+    "category": "Sports / community / marathon",
+    "start": "2027-02-14T03:00:00+05:30",
+    "date": "Sun, Feb 14, 2027",
+    "time": "District lists 3:00 AM start; official organizer homepage does not expose 2027 reporting/flag-off times",
+    "venue": "Venue to be announced, Kochi",
+    "area": "Kochi",
+    "admission": "District event page: ₹700 onwards; District Kochi collection: ₹630 onwards (price conflict by District source view). Tickets required for all ages; District says book tickets.",
+    "notes": "Newly surfaced relative to the supplied prior results. District describes a World Athletics-certified route and Athletics Federation of India affiliation. Official organizer homepage identifies the 2027 fifth edition and categories: timed marathon, timed half marathon, timed 10 Km, and 3 Km Green Run. The official homepage does not state a confirmed 2027 venue or registration deadline in the fetched content.",
+    "sources": [
+      {
+        "label": "District event-specific ticket page",
+        "url": "https://www.district.in/events/federal-bank-kochi-marathon-2027-buy-tickets"
+      },
+      {
+        "label": "District Kochi upcoming-events collection (₹630 listing)",
+        "url": "https://www.district.in/events/upcoming-events-in-kochi"
+      },
+      {
+        "label": "Official Federal Bank Kochi Marathon organizer site",
+        "url": "https://www.kochimarathon.in/"
+      }
+    ]
+  },
+  {
+    "id": "kochi-walk-in-drive-for-senior-software-engineer-lead-engineer",
+    "title": "Kochi Walk-in Drive for Senior Software Engineer / Lead Engineer",
+    "category": "Technology / professional hiring",
+    "start": "2026-11-21T09:00:00+05:30",
+    "date": "Sat, Nov 21, 2026",
+    "time": "9:00 AM–4:00 PM IST",
+    "venue": "9B-1, Jyothirmaya, Infopark Phase 2, Kochi, Keralam 682303",
+    "area": "Infopark / Kakkanad",
+    "admission": "No fee stated; official page asks candidates to register and submit a resume",
+    "notes": "Official Quest Global event page describes a walk-in drive for Senior Software Engineer / Lead Engineer roles covering Java, Spring Boot, microservices, AWS, Docker and Kubernetes, with 3–12 years' experience. The page's event-widget timezone rendering is inconsistent, but its explicit description states Nov 21, 2026, 9 AM–4 PM; that local-time description is used here. Newly surfaced relative to the supplied prior results; announcement date not independently verifiable.",
+    "sources": [
+      {
+        "label": "Quest Global official event page",
+        "url": "https://careers.quest-global.com/global/en/event/6af40495c2f370054145b8f8/Kochi-Walk-in-Drive-for-Senior-Software-Engineer-Lead-Engineer"
+      }
+    ]
+  },
+  {
+    "id": "experion-technologies-walk-in-drive-data-and-ai",
+    "title": "Experion Technologies Walk-In Drive — Data & AI",
+    "category": "Technology / AI / professional hiring",
+    "start": "2026-11-21",
+    "date": "Sat, Nov 21, 2026",
+    "time": "Not stated in the accessible official announcement",
+    "venue": "Kochi; exact venue not stated in the accessible official announcement",
+    "area": "Kochi (Experion tenant; specific site unverified)",
+    "admission": "No fee stated; official post asks candidates to register",
+    "notes": "Experion's official Facebook post, dated Nov 12, 2026, announces a Kochi walk-in drive on Nov 21 for opportunities across Data & AI and asks applicants to register. The accessible post text does not state venue or time, so those facts are intentionally not inferred. An older official Instagram post fetched during verification concerns a separate Nov 10 drive and is not treated as evidence for this Nov 21 event. Newly surfaced relative to the supplied prior results; announcement date is verifiable as Nov 12, 2026.",
+    "sources": [
+      {
+        "label": "Experion Technologies official Facebook announcement",
+        "url": "https://www.facebook.com/experiontechnologies/posts/ready-to-make-your-next-career-move-in-data-ai-wed-love-to-meet-you-experion-tec/1683086557162189"
+      }
+    ]
+  },
+  {
+    "id": "tinkerday-kozhikode",
+    "title": "TinkerDay Kozhikode",
+    "category": "Community / innovation meetup",
+    "start": "2026-12-28T08:30:00+05:30",
+    "date": "Mon, Dec 28, 2026",
+    "time": "8:30–11:30 AM IST",
+    "venue": "Kerala Startup Mission - Calicut",
+    "area": "Kozhikode, Kerala",
+    "admission": "Invite Only; registrations closed",
+    "notes": "Official TinkerHub page describes this as a gathering for dreamers, creators and innovators to spark ideas, share visions and collaborate. Newly surfaced relative to the prior results; announcement date is not verifiable from the page.",
+    "sources": [
+      {
+        "label": "Official TinkerHub event page",
+        "url": "https://tinkerhub.org/events/TAEZVKUGRS/tinkerday-kozhikode"
+      }
+    ]
+  },
+  {
+    "id": "ictak-usa-mnc-individual-hackathon-2026-tech-and-ai-engineers-hackathon",
+    "title": "ICTAK-USA MNC Individual Hackathon 2026 — Tech and AI Engineers Hackathon",
+    "category": "College / professional community / technology / AI / hackathon",
+    "start": "2026-12-11",
+    "date": "Fri–Sun, Dec 11–13, 2026",
+    "time": "9:00 AM–5:00 PM IST; Dec 11 virtual, Dec 12–13 format/venue not stated",
+    "venue": "Virtual on Dec 11; venue not stated for Dec 12–13",
+    "area": "Kerala / virtual; Dec 12–13 venue TBA",
+    "admission": "Not stated",
+    "notes": "Newly surfaced relative to the prior results; announcement date not independently verifiable. Official ICT Academy announcement dated Nov 10, 2026. Three-day individual hackathon with real-world technical and problem-solving challenges; intended for B.E./B.Tech. 3rd- and 4th-year students, MCA final-year students, and eligible graduates from the 2026, 2027 and 2028 batches meeting the stated academic/backlog criteria. Outstanding performers are advertised to receive placement opportunities. The official registration page confirms the title but does not expose further public venue, fee, or availability details.",
+    "sources": [
+      {
+        "label": "ICT Academy of Kerala official announcement (dated Nov 10, 2026)",
+        "url": "https://www.facebook.com/ictkerala/posts/tech-and-ai-engineers-hackathon-2026-build-solve-stand-out-take-part-in-a-three-/1752437540221912/"
+      },
+      {
+        "label": "ICT Academy of Kerala official registration page",
+        "url": "https://ictkerala.org/forms/reg-mnc-hackathon-2610"
+      }
+    ]
+  },
+  {
+    "id": "kochi-on-flea-k-27",
+    "title": "Kochi On Flea.k ’27",
+    "category": "Market / pop-up / social",
+    "start": "2027-01-16T15:00:00+05:30",
+    "date": "Sat–Sun, Jan 16–17, 2027",
+    "time": "3:00–10:00 PM IST",
+    "venue": "The Grounds @ Chakolas Mills",
+    "area": "Kalamassery",
+    "admission": "Not stated in the organizer announcement",
+    "notes": "Newly announced in a public On Flea.k organizer post dated Nov 14, 2026. The announcement promotes a vendor stall and gives the event dates, time and venue; broader programme and admission terms were not stated. This is a notable later announcement beyond the requested Dec 14 window.",
+    "sources": [
+      {
+        "label": "On Flea.k official organizer announcement (Nov 14, 2026)",
+        "url": "https://www.instagram.com/kochionfleak/p/Dft_7O9IzSm/"
+      }
+    ]
+  },
+  {
+    "id": "secret-santa-christmas-edition-zeea-seasons-16th-edition",
+    "title": "Secret Santa Christmas Edition / Zeea Seasons 16th Edition",
+    "category": "Lifestyle pop-up / Christmas exhibition / shopping",
+    "start": "2026-12-12",
+    "date": "Sat–Sun, Dec 12–13, 2026",
+    "time": "Conflict by source: AllEvents header/FAQ says 3:30 AM–4:30 PM IST across the listing span; the event description says 10:00 AM–10:00 PM on both dates; organizer site confirms dates but no hours",
+    "venue": "The Avenue Center Hotel, Panampilly Nagar",
+    "area": "Panampilly Nagar / Kochi",
+    "admission": "Free entry per AllEvents description and organizer site free-pass link",
+    "notes": "Newly surfaced relative to the prior results. Organizer site describes Zeea Seasons 16th Edition as a women-led-business and lifestyle exhibition on Dec 12–13, 2026 at Avenue Center Hotel, Kochi, with a free pass. AllEvents title uses Secret Santa Christmas Edition and describes fashion, jewellery, accessories, beauty, lifestyle, home décor and gifts. Do not infer operating hours because the sources conflict.",
+    "sources": [
+      {
+        "label": "Zeea Seasons organizer site",
+        "url": "https://www.zeeaseasons.com/"
+      },
+      {
+        "label": "Zeea Seasons free-pass/event page",
+        "url": "https://www.zeeaseasons.com/event-details/zeea-seasons-16th-edition"
+      },
+      {
+        "label": "AllEvents event page",
+        "url": "https://allevents.in/kochi/secret-santa-christmas-edition/200030968139837"
+      },
+      {
+        "label": "Kochi2Go public listing",
+        "url": "https://kochi2go.in/event/secret-santa-christmas-edition-20261212-05dfb8"
+      }
+    ]
+  },
+  {
+    "id": "urban-fashion-fest-26-uff-26-season-1",
+    "title": "URBAN FASHION FEST 26 – UFF '26 Season 1",
+    "category": "Fashion / live music / DJ / cultural entertainment",
+    "start": "2026-12-26T16:00:00+05:30",
+    "date": "Sat, Dec 26, 2026",
+    "time": "4:00–10:00 PM",
+    "venue": "Loop Skatepark, Kochi",
+    "area": "Kochi",
+    "admission": "Early bird ₹799 + GST (30 tickets); Phase 1 general ₹999 + GST (100 tickets); Phase 2 last-minute ₹1,299 + GST (50 tickets)",
+    "notes": "Newly surfaced relative to the prior results and later than the requested Dec 14 horizon, retained as a notable live-music/DJ announcement. IndiaEve event page describes a designer fashion showcase, DJ show, live music concert, Kalaripayattu performance and skating/BMX stunts. Ticket categories are limited and GST is extra; event page says registrations are open.",
+    "sources": [
+      {
+        "label": "IndiaEve event and ticket page",
+        "url": "https://www.indiaeve.com/event/urban-fashion-fest-26"
+      }
+    ]
+  },
+  {
+    "id": "hr-connect",
+    "title": "HR CONNECT",
+    "category": "Professional networking / meetup",
+    "start": "2026-11-21T11:00:00+05:30",
+    "date": "Sat, Nov 21, 2026",
+    "time": "11:00 AM; BookMyShow lists 1 hour, WhatsAroundMe lists 2 hours",
+    "venue": "Hedge Club, Chittoor Road, Ernakulam South, Kochi",
+    "area": "Ernakulam South / Greater Kochi",
+    "admission": "₹250; BookMyShow shows available",
+    "notes": "Newly surfaced relative to the prior results; WhatsAroundMe lists a 2-hour duration, while BookMyShow lists 1 hour. Event is for HR professionals, people leaders, students, job seekers and young professionals.",
+    "sources": [
+      {
+        "label": "WhatsAroundMe event page",
+        "url": "https://whatsaround.app/home/events/hr-connect-1"
+      },
+      {
+        "label": "BookMyShow ticket page",
+        "url": "https://in.bookmyshow.com/events/human-librairy-kochi/ET00438792"
       }
     ]
   }
